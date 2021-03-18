@@ -1,4 +1,4 @@
-import React from 'react';
+import React, { useEffect } from 'react';
 import AllPieces from './AllPieces';
 // import TimePieces from './TimePieces';
 // import PlacePieces from './PlacePieces';
@@ -26,48 +26,46 @@ class ShowPieces extends React.Component {
         });
 
         
+
     }
 
 
     render() {
 
         // show all pieces by default
-        let pieces = <AllPieces />;
-        // let currentValue = this.state.value;
+    
+
+        let pieces;
         
-        let currentTimeValue = this.state.startyear;
+        let currentTimeValue = this.state.startyear;        
 
-        // if (currentValue === 'All') {
-        //     console.log('We will show all pieces!')
-        //     pieces = <AllPieces />;
-        // } else {
-        //     console.log('We will show some pieces!')
-        //     pieces = <h1>showing some pieces</h1>;
-        // }
-
-        if (currentTimeValue !== 'All') {
-            console.log('We will show some time filtered pieces!')
+        if (currentTimeValue === 'All') {
+            console.log('We will show all pieces!')
+            pieces = <AllPieces />;
+        } else {
+            console.log('We will show some pieces!')
             pieces = <TimePieces 
                 startyear={this.state.startyear}
                 endyear={this.state.endyear}
             />;
         }
+
+    
         return (
             <div className="pieces-container">
-                {/* <form className="filter-forms">
-                    <select value={this.state.value} onChange={this.handleChange}>
-                    <option value="All">All</option>
-                    <option value="1700-1800">1700-1800</option>
-                    </select>
-                </form>  */}
                 <FilterByTime 
                 value={this.state.value}
                 startyear={this.state.startyear}
                 endyear={this.state.endyear}
                 onTimeFilterChange={this.handleTimeFilterChange} />
 
-                {/* <AllPieces /> */}
-                {pieces}
+                <div>
+                    {pieces}
+                </div>
+                {/* <TimePieces 
+                startyear={this.state.startyear}
+                endyear={this.state.endyear}
+            /> */}
             </div>
         )
     }

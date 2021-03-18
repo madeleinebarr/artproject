@@ -20,9 +20,15 @@ const TimePieces = (props) => {
     let endyear = parseFloat(props.endyear);
 
     // this was commented out before but I am putting it back in momentarily
+    // useEffect(() => {
+    //     getTimePieces(startyear, endyear);
+    // }, []);
+
     useEffect(() => {
         getTimePieces(startyear, endyear);
-    }, []);
+    }, [startyear, endyear]);
+
+
 
     console.log(timepieces.length);
     console.log(props.startyear, props.endyear);
