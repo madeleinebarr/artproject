@@ -1,7 +1,7 @@
 import React, { Fragment, useEffect, useState } from 'react';
 import Piece from './Piece';
 
-const TimePieces = () => {
+const TimePieces = (props) => {
 
     const [timepieces, setTimePieces] = useState([]);
   
@@ -16,12 +16,17 @@ const TimePieces = () => {
         }
     }
 
+    let startyear = parseFloat(props.startyear);
+    let endyear = parseFloat(props.endyear);
+
     // this was commented out before but I am putting it back in momentarily
     useEffect(() => {
-        getTimePieces(1700, 1800);
+        getTimePieces(startyear, endyear);
     }, []);
 
     console.log(timepieces.length);
+    console.log(props.startyear, props.endyear);
+    
 
     return (
         <Fragment>

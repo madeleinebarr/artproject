@@ -24,6 +24,8 @@ class ShowPieces extends React.Component {
             startyear: startyear,
             endyear: endyear
         });
+
+        
     }
 
 
@@ -31,7 +33,7 @@ class ShowPieces extends React.Component {
 
         // show all pieces by default
         let pieces = <AllPieces />;
-        let currentValue = this.state.value;
+        // let currentValue = this.state.value;
         
         let currentTimeValue = this.state.startyear;
 
@@ -45,7 +47,10 @@ class ShowPieces extends React.Component {
 
         if (currentTimeValue !== 'All') {
             console.log('We will show some time filtered pieces!')
-            pieces = <TimePieces />;
+            pieces = <TimePieces 
+                startyear={this.state.startyear}
+                endyear={this.state.endyear}
+            />;
         }
         return (
             <div className="pieces-container">
