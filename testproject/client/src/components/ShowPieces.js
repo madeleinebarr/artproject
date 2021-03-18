@@ -1,10 +1,10 @@
 import React, { useEffect } from 'react';
 import AllPieces from './AllPieces';
-// import TimePieces from './TimePieces';
-// import PlacePieces from './PlacePieces';
-import ThemePieces from './ThemePieces';
 import FilterByTime from './FilterByTime';
+import FilterByPlace from './FilterByPlace';
 import TimePieces from './TimePieces';
+import PlacePieces from './PlacePieces';
+import ThemePieces from './ThemePieces';
 
 class ShowPieces extends React.Component {
     constructor(props) {
@@ -13,9 +13,13 @@ class ShowPieces extends React.Component {
             value: 'All',
             startyear: 'All',
             endyear: 'All',
+            artist_nationality: '',
+            culture: '',
+            country: '',
         };
 
         this.handleTimeFilterChange = this.handleTimeFilterChange.bind(this);
+        this.handlePlaceFilterChange = this.handlePlaceFilterChange.bind(this);
     }
 
     handleTimeFilterChange(value, startyear, endyear) {
@@ -24,9 +28,14 @@ class ShowPieces extends React.Component {
             startyear: startyear,
             endyear: endyear
         });
+    }
 
-        
-
+    handlePlaceFilterChange(artist_nationality, culture, country) {
+        this.setState({
+            artist_nationality: artist_nationality,
+            culture: culture,
+            country: country
+        });
     }
 
 
@@ -35,37 +44,59 @@ class ShowPieces extends React.Component {
         // show all pieces by default
     
 
-        let pieces;
+        // let pieces;
         
-        let currentTimeValue = this.state.startyear;        
+        // let currentTimeValue = this.state.startyear;        
 
-        if (currentTimeValue === 'All') {
-            console.log('We will show all pieces!')
-            pieces = <AllPieces />;
-        } else {
-            console.log('We will show some pieces!')
-            pieces = <TimePieces 
-                startyear={this.state.startyear}
-                endyear={this.state.endyear}
-            />;
-        }
+        // if (currentTimeValue === 'All') {
+        //     console.log('We will show all pieces!')
+        //     pieces = <AllPieces />;
+        // } else {
+        //     console.log('We will show some pieces!')
+        //     pieces = <TimePieces 
+        //         startyear={this.state.startyear}
+        //         endyear={this.state.endyear}
+        //     />;
+        // }
 
     
         return (
             <div className="pieces-container">
-                <FilterByTime 
-                value={this.state.value}
-                startyear={this.state.startyear}
-                endyear={this.state.endyear}
-                onTimeFilterChange={this.handleTimeFilterChange} />
+                <form className="filter-forms">
 
-                <div>
+                        <FilterByTime 
+                        value={this.state.value}
+                        startyear={this.state.startyear}
+                        endyear={this.state.endyear}
+                        onTimeFilterChange={this.handleTimeFilterChange} />
+
+                        <FilterByPlace
+                        value={this.state.value}
+                        artist_nationality={this.state.artist_nationality}
+                        culture={this.state.culture}
+                        country={this.state.country}
+                        onPlaceFilterChange={this.handlePlaceFilterChange} />
+
+
+                </form>
+
+                {/* <div>
                     {pieces}
-                </div>
+                </div> */}
+
+                <AllPieces />
+
+
                 {/* <TimePieces 
                 startyear={this.state.startyear}
                 endyear={this.state.endyear}
             /> */}
+
+                {/* <PlacePieces
+                artist_nationality={this.state.artist_nationality}
+                culture={this.state.culture}
+                country={this.state.country}
+                /> */}
             </div>
         )
     }

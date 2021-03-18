@@ -1,7 +1,7 @@
 import React, { Fragment, useEffect, useState } from 'react';
 import Piece from './Piece';
 
-const PlacePieces = () => {
+const PlacePieces = (props) => {
     const [placepieces, setPlacePieces] = useState([]);
 
     const getPlacePieces = async (artist_nationality, culture, country) => {
@@ -14,9 +14,13 @@ const PlacePieces = () => {
         }
     }
 
+    let artist_nationality = props.artist_nationality;
+    let culture = props.culture;
+    let country = props.country;
+
     useEffect(() => {
-        getPlacePieces('German', 'German', 'Germany');
-    }, []);
+        getPlacePieces(artist_nationality, culture, country);
+    }, [artist_nationality, culture, country]);
 
     console.log(placepieces.length);
 

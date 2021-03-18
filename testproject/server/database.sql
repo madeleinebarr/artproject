@@ -383,3 +383,8 @@ SELECT * FROM pieces WHERE tags::text LIKE '%Venus%' AND tags::text LIKE '%Cupid
 
 SELECT * FROM pieces WHERE object_end_date BETWEEN 1700 AND 1800;
 
+/*place pieces */
+
+SELECT * FROM pieces WHERE artist_nationality = 'German' OR culture = 'German' OR country = 'Germany';
+
+SELECT * FROM pieces WHERE artist_nationality = 'Egyptian' OR culture = 'Egyptian' OR country = 'Egypt';

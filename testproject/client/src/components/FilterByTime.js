@@ -18,26 +18,13 @@ class FilterByTime extends React.Component {
 
     render() {
         return (
-            <form className="filter-forms">
                 <select value={this.props.value} startyear={this.props.startyear} endyear={this.props.endyear} onChange={this.handleTimeFilterChange} >
                 <option value="All" startyear="All" endyear="All">All</option>
                 <option value="1600-1700" startyear="1600" endyear="1700">1600-1700</option>
                 <option value="1700-1800" startyear="1700" endyear="1800">1700-1800</option>
                 </select>
-            </form>
         )
     }
 }
-
-// function FilterByTime(props) {
-//     return (
-//         <form className="filter-forms">
-//             <select value={props.value} onChange={props.handleChange}>
-//             <option value="All">All</option>
-//             <option value="1700-1800">1700-1800</option>
-//             </select>
-//         </form>
-//     )
-// }
 
 export default FilterByTime;
