@@ -376,3 +376,10 @@ SELECT * FROM pieces WHERE tags::text LIKE '%Madonna and Child%';
 SELECT * FROM pieces WHERE tags::text LIKE '%Moon%' AND tags::text LIKE '%Landscapes%';
 
 SELECT * FROM pieces WHERE tags::text LIKE '%Venus%' AND tags::text LIKE '%Cupid%';
+
+/*testing if our frontend works*/
+
+/*time pieces*/
+
+SELECT * FROM pieces WHERE object_end_date BETWEEN 1700 AND 1800;
+
