@@ -4,22 +4,49 @@ import AllPieces from './AllPieces';
 // import PlacePieces from './PlacePieces';
 import ThemePieces from './ThemePieces';
 import FilterByTime from './FilterByTime';
+import TimePieces from './TimePieces';
 
 class ShowPieces extends React.Component {
     constructor(props) {
         super(props);
         this.state = {
-            value: 'All'
+            value: 'All',
+            startyear: 'All',
+            endyear: 'All',
         };
 
         this.handleTimeFilterChange = this.handleTimeFilterChange.bind(this);
     }
 
-    handleTimeFilterChange(value) {
-        this.setState({value: value});
+    handleTimeFilterChange(value, startyear, endyear) {
+        this.setState({
+            value: value,
+            startyear: startyear,
+            endyear: endyear
+        });
     }
 
+
     render() {
+
+        // show all pieces by default
+        let pieces = <AllPieces />;
+        let currentValue = this.state.value;
+        
+        let currentTimeValue = this.state.startyear;
+
+        // if (currentValue === 'All') {
+        //     console.log('We will show all pieces!')
+        //     pieces = <AllPieces />;
+        // } else {
+        //     console.log('We will show some pieces!')
+        //     pieces = <h1>showing some pieces</h1>;
+        // }
+
+        if (currentTimeValue !== 'All') {
+            console.log('We will show some time filtered pieces!')
+            pieces = <TimePieces />;
+        }
         return (
             <div className="pieces-container">
                 {/* <form className="filter-forms">
@@ -28,8 +55,14 @@ class ShowPieces extends React.Component {
                     <option value="1700-1800">1700-1800</option>
                     </select>
                 </form>  */}
-                <FilterByTime value={this.state.value} onTimeFilterChange={this.handleTimeFilterChange} />
-                <AllPieces />
+                <FilterByTime 
+                value={this.state.value}
+                startyear={this.state.startyear}
+                endyear={this.state.endyear}
+                onTimeFilterChange={this.handleTimeFilterChange} />
+
+                {/* <AllPieces /> */}
+                {pieces}
             </div>
         )
     }

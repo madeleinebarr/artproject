@@ -7,15 +7,22 @@ class FilterByTime extends React.Component {
     }
 
     handleTimeFilterChange(e) {
-        this.props.onTimeFilterChange(e.target.value);
+        let value = e.target.value;
+        let startyear = e.target[e.target.selectedIndex].getAttribute('startyear');
+        let endyear = e.target[e.target.selectedIndex].getAttribute('endyear');
+        this.props.onTimeFilterChange(value, startyear, endyear);
+
+        
+        
     }
 
     render() {
         return (
             <form className="filter-forms">
-                <select value={this.props.value} onChange={this.handleTimeFilterChange}>
-                <option value="All">All</option>
-                <option value="1700-1800">1700-1800</option>
+                <select value={this.props.value} startyear={this.props.startyear} endyear={this.props.endyear} onChange={this.handleTimeFilterChange} >
+                <option value="All" startyear="All" endyear="All">All</option>
+                <option value="1600-1700" startyear="1600" endyear="1700">1600-1700</option>
+                <option value="1700-1800" startyear="1700" endyear="1800">1700-1800</option>
                 </select>
             </form>
         )
