@@ -403,3 +403,8 @@ SELECT * FROM pieces WHERE (artist_nationality = 'German' OR culture = 'German' 
 /*place and time and theme*/
 
 SELECT * FROM pieces WHERE (object_end_date BETWEEN 1800 AND 1900) AND (artist_nationality = 'German' OR culture = 'German' OR country = 'Germany') AND (tags::text LIKE '%Moon%');
+
+
+SELECT object_end_date, COUNT(*) FROM pieces GROUP BY object_end_date ORDER BY object_end_date;
+
+SELECT object_end_date, COUNT(*) FROM pieces GROUP BY object_end_date ORDER BY COUNT(*) DESC;
