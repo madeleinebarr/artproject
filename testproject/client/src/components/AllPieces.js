@@ -1,19 +1,32 @@
 import React, { Fragment, useEffect, useState } from 'react';
 import Piece from './Piece';
+import ThemePieces from './ThemePieces';
 
 const AllPieces = (props) => {
 
+        let timeIsSelected = (props.startyear === '') ? false : true;
+        let placeIsSelected = (props.culture === '') ? false : true;
+        let themeIsSelected = (props.theme === '') ? false : true;
+
+        let wantAllPieces = (!timeIsSelected && !placeIsSelected && !themeIsSelected) ? true : false;
+        let wantOnlyTimePieces = (timeIsSelected && !placeIsSelected && !themeIsSelected) ? true : false;
+        let wantOnlyPlacePieces = (!timeIsSelected && placeIsSelected && !themeIsSelected) ? true : false;
+        let wantTimeAndPlacePieces = (timeIsSelected && placeIsSelected && !themeIsSelected) ? true : false;
+        let wantOnlyThemePieces = (!timeIsSelected && !placeIsSelected && themeIsSelected) ? true : false;
 
         // this works
-        if (props.startyear === '' && props.culture === '') {
+        if (wantAllPieces) {
             console.log('We get all pieces');
-        } else if (props.startyear !== '' && props.culture === '') {
+        } else if (wantOnlyTimePieces) {
             console.log('We get pieces based on time only');
-        } else if (props.startyear === '' && props.culture !== '') {
+        } else if (wantOnlyPlacePieces) {
             console.log('We get pieces based on place only');
-        } else if (props.startyear !== '' && props.culture !== '') {
+        } else if (wantTimeAndPlacePieces) {
             console.log('We get pieces based on time and place');
-        } else {
+        } else if(wantOnlyThemePieces) {
+            console.log('We get pieces based on theme only');
+        }
+        else {
             console.log('something went wrong')
         }
 
@@ -23,18 +36,20 @@ const AllPieces = (props) => {
 
         const piecesendpoint = "http://localhost:5000/pieces";
 
-        const getPieces = async (startyear, endyear, artist_nationality, culture, country) => {
+        const getPieces = async (startyear, endyear, artist_nationality, culture, country, theme) => {
             try {
 
                 let response; 
-                if (props.startyear === '' && props.culture === '') {
+                if (wantAllPieces) {
                     response = await fetch(piecesendpoint);
-                } else if (props.startyear !== '' && props.culture === '') {
-                    response = await fetch(`http://localhost:5000/pieces/daterange/${startyear}/${endyear}`);
-                } else if (props.startyear === '' && props.culture !== '') {
-                    response = await fetch(`http://localhost:5000/pieces/region/${artist_nationality}/${culture}/${country}`);
-                } else if (props.startyear !== '' && props.culture !== '') {
-                    response = await fetch(`http://localhost:5000/pieces/daterange/${startyear}/${endyear}/region/${artist_nationality}/${culture}/${country}`);
+                } else if (wantOnlyTimePieces) {
+                    response = await fetch(`${piecesendpoint}/daterange/${startyear}/${endyear}`);
+                } else if (wantOnlyPlacePieces) {
+                    response = await fetch(`${piecesendpoint}/region/${artist_nationality}/${culture}/${country}`);
+                } else if (wantTimeAndPlacePieces) {
+                    response = await fetch(`${piecesendpoint}/daterange/${startyear}/${endyear}/region/${artist_nationality}/${culture}/${country}`);
+                } else if (wantOnlyThemePieces) {
+                    response = await fetch(`${piecesendpoint}/tags/${theme}`);
                 }
                 
                 const jsonData = await response.json();
@@ -49,10 +64,11 @@ const AllPieces = (props) => {
         let artist_nationality = props.artist_nationality;
         let culture = props.culture;
         let country = props.country;
+        let theme = props.theme;
 
         useEffect(() => {
-            getPieces(startyear, endyear, artist_nationality, culture, country);
-        }, [startyear, endyear, artist_nationality, culture, country]);
+            getPieces(startyear, endyear, artist_nationality, culture, country, theme);
+        }, [startyear, endyear, artist_nationality, culture, country, theme]);
 
         console.log(pieces.length);
     

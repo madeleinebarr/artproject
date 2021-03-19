@@ -2,6 +2,7 @@ import React, { useEffect } from 'react';
 import AllPieces from './AllPieces';
 import FilterByTime from './FilterByTime';
 import FilterByPlace from './FilterByPlace';
+import FilterByTheme from './FilterByTheme';
 import TimePieces from './TimePieces';
 import PlacePieces from './PlacePieces';
 import ThemePieces from './ThemePieces';
@@ -15,11 +16,12 @@ class ShowPieces extends React.Component {
             artist_nationality: '',
             culture: '',
             country: '',
-            themes: []
+            theme: ''
         };
 
         this.handleTimeFilterChange = this.handleTimeFilterChange.bind(this);
         this.handlePlaceFilterChange = this.handlePlaceFilterChange.bind(this);
+        this.handleThemeFilterChange = this.handleThemeFilterChange.bind(this);
     }
 
     handleTimeFilterChange(startyear, endyear) {
@@ -34,6 +36,12 @@ class ShowPieces extends React.Component {
             artist_nationality: artist_nationality,
             culture: culture,
             country: country
+        });
+    }
+
+    handleThemeFilterChange(theme) {
+        this.setState({
+            theme: theme
         });
     }
 
@@ -64,17 +72,19 @@ class ShowPieces extends React.Component {
                 <form className="filter-forms">
 
                         <FilterByTime 
-                       
                         startyear={this.state.startyear}
                         endyear={this.state.endyear}
                         onTimeFilterChange={this.handleTimeFilterChange} />
 
                         <FilterByPlace
-                        
                         artist_nationality={this.state.artist_nationality}
                         culture={this.state.culture}
                         country={this.state.country}
                         onPlaceFilterChange={this.handlePlaceFilterChange} />
+
+                        <FilterByTheme
+                        theme={this.state.theme}
+                        onThemeFilterChange={this.handleThemeFilterChange} />
 
 
                 </form>
@@ -89,7 +99,7 @@ class ShowPieces extends React.Component {
                         artist_nationality={this.state.artist_nationality}
                         culture={this.state.culture}
                         country={this.state.country}
-                        themes={this.state.themes}
+                        theme={this.state.theme}
                 />
 
 
