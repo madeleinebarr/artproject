@@ -18,7 +18,7 @@ class FilterByPlace extends React.Component {
         return (
             <select artist_nationality={this.props.artist_nationality} culture={this.props.culture} country={this.props.country} onChange={this.handlePlaceFilterChange}>
             {/* <option value="">Select a geographical region</option> */}
-            <option artist_nationality="All" culture="All" country="All">All</option>
+            <option artist_nationality="" culture="" country="">All</option>
             <option artist_nationality="German" culture="German" country="Germany">German</option>
             <option artist_nationality="Egyptian" culture="Egyptian" country="Egypt">Egypt</option>
         </select>

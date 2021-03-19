@@ -1,13 +1,42 @@
 import React, { Fragment, useEffect, useState } from 'react';
 import Piece from './Piece';
 
-const AllPieces = () => {
+const AllPieces = (props) => {
+
+
+        // this works
+        if (props.startyear === '' && props.culture === '') {
+            console.log('We get all pieces');
+        } else if (props.startyear !== '' && props.culture === '') {
+            console.log('We get pieces based on time only');
+        } else if (props.startyear === '' && props.culture !== '') {
+            console.log('We get pieces based on place only');
+        } else if (props.startyear !== '' && props.culture !== '') {
+            console.log('We get pieces based on time and place');
+        } else {
+            console.log('something went wrong')
+        }
+
+        
 
         const [pieces, setPieces] = useState([]);
 
-        const getPieces = async () => {
+        const piecesendpoint = "http://localhost:5000/pieces";
+
+        const getPieces = async (startyear, endyear, artist_nationality, culture, country) => {
             try {
-                const response = await fetch("http://localhost:5000/pieces");
+
+                let response; 
+                if (props.startyear === '' && props.culture === '') {
+                    response = await fetch(piecesendpoint);
+                } else if (props.startyear !== '' && props.culture === '') {
+                    response = await fetch(`http://localhost:5000/pieces/daterange/${startyear}/${endyear}`);
+                } else if (props.startyear === '' && props.culture !== '') {
+                    response = await fetch(`http://localhost:5000/pieces/region/${artist_nationality}/${culture}/${country}`);
+                } else if (props.startyear !== '' && props.culture !== '') {
+                    response = await fetch(`http://localhost:5000/pieces/daterange/${startyear}/${endyear}/region/${artist_nationality}/${culture}/${country}`);
+                }
+                
                 const jsonData = await response.json();
                 setPieces(jsonData);
             } catch (err) {
@@ -15,25 +44,18 @@ const AllPieces = () => {
             }
         }
 
+        let startyear = parseFloat(props.startyear);
+        let endyear = parseFloat(props.endyear);
+        let artist_nationality = props.artist_nationality;
+        let culture = props.culture;
+        let country = props.country;
+
         useEffect(() => {
-            getPieces();
-        }, []);
+            getPieces(startyear, endyear, artist_nationality, culture, country);
+        }, [startyear, endyear, artist_nationality, culture, country]);
 
         console.log(pieces.length);
     
-        // return (
-        //     <Fragment>
-        //         {pieces.map(piece => (
-        //         <div className="piece" key={piece.objectid}>
-        //             <img className="piece-image" src={piece.primary_image_small} alt={piece.title}></img>
-        //             <p className="piece-title">{piece.title}</p>
-        //             <p className="piece-artist">{piece.artist_display_name}</p>
-        //             <p className="piece-date">{piece.object_end_date}</p>
-        //         </div> 
-        //         ))}
-           
-        //     </Fragment>
-        // )
 
         return (
             <Fragment>

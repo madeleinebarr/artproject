@@ -77,6 +77,18 @@ app.get("/pieces/daterange/:rangeStart/:rangeEnd", async(req, res) => {
     }
 })
 
+app.get("/pieces/daterange/:rangeStart/:rangeEnd/region/:artistNationality/:culture/:country", async (req, res) => {
+    try {
+        console.log(req.params);
+        const { rangeStart, rangeEnd, artistNationality, culture, country } = req.params;
+        const dateRangeRegionPieces = await pool.query("SELECT * FROM pieces WHERE (object_end_date BETWEEN $1 AND $2) AND (artist_nationality = $3 OR culture = $4 OR country = $5);", [rangeStart, rangeEnd, artistNationality, culture, country]);
+
+        res.json(dateRangeRegionPieces.rows);
+    } catch (err) {
+        console.log(err.message);
+    }
+})
+
 // get all pieces with one tag
 
 app.get("/pieces/tags/:term", async(req, res) => {

@@ -10,21 +10,20 @@ class ShowPieces extends React.Component {
     constructor(props) {
         super(props);
         this.state = {
-            value: 'All',
-            startyear: 'All',
-            endyear: 'All',
+            startyear: '',
+            endyear: '',
             artist_nationality: '',
             culture: '',
             country: '',
+            themes: []
         };
 
         this.handleTimeFilterChange = this.handleTimeFilterChange.bind(this);
         this.handlePlaceFilterChange = this.handlePlaceFilterChange.bind(this);
     }
 
-    handleTimeFilterChange(value, startyear, endyear) {
+    handleTimeFilterChange(startyear, endyear) {
         this.setState({
-            value: value,
             startyear: startyear,
             endyear: endyear
         });
@@ -65,13 +64,13 @@ class ShowPieces extends React.Component {
                 <form className="filter-forms">
 
                         <FilterByTime 
-                        value={this.state.value}
+                       
                         startyear={this.state.startyear}
                         endyear={this.state.endyear}
                         onTimeFilterChange={this.handleTimeFilterChange} />
 
                         <FilterByPlace
-                        value={this.state.value}
+                        
                         artist_nationality={this.state.artist_nationality}
                         culture={this.state.culture}
                         country={this.state.country}
@@ -84,7 +83,14 @@ class ShowPieces extends React.Component {
                     {pieces}
                 </div> */}
 
-                <AllPieces />
+                <AllPieces 
+                        startyear={this.state.startyear}
+                        endyear={this.state.endyear}
+                        artist_nationality={this.state.artist_nationality}
+                        culture={this.state.culture}
+                        country={this.state.country}
+                        themes={this.state.themes}
+                />
 
 
                 {/* <TimePieces 

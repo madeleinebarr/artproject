@@ -388,3 +388,9 @@ SELECT * FROM pieces WHERE object_end_date BETWEEN 1700 AND 1800;
 SELECT * FROM pieces WHERE artist_nationality = 'German' OR culture = 'German' OR country = 'Germany';
 
 SELECT * FROM pieces WHERE artist_nationality = 'Egyptian' OR culture = 'Egyptian' OR country = 'Egypt';
+
+SELECT * FROM pieces WHERE (object_end_date BETWEEN 1300 AND 1400) AND (artist_nationality = 'Egyptian' OR culture = 'Egyptian' OR country = 'Egypt');
+
+SELECT * FROM pieces WHERE (object_end_date BETWEEN -5000 AND 0) AND (artist_nationality = 'Egyptian' OR culture = 'Egyptian' OR country = 'Egypt');
+
+SELECT * FROM pieces WHERE (object_end_date BETWEEN 1800 AND 1900) AND (artist_nationality = 'German' OR culture = 'German' OR country = 'Germany');
