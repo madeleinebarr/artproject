@@ -13,6 +13,10 @@ const AllPieces = (props) => {
         let wantOnlyPlacePieces = (!timeIsSelected && placeIsSelected && !themeIsSelected) ? true : false;
         let wantTimeAndPlacePieces = (timeIsSelected && placeIsSelected && !themeIsSelected) ? true : false;
         let wantOnlyThemePieces = (!timeIsSelected && !placeIsSelected && themeIsSelected) ? true : false;
+        let wantThemeAndTimePieces = (timeIsSelected && !placeIsSelected && themeIsSelected) ? true : false;
+        let wantThemeandPlacePieces = (!timeIsSelected && placeIsSelected && themeIsSelected) ? true : false;
+        let wantThemeAndPlaceAndTimePieces = (timeIsSelected && placeIsSelected && themeIsSelected) ? true : false;
+
 
         // this works
         if (wantAllPieces) {
@@ -25,6 +29,12 @@ const AllPieces = (props) => {
             console.log('We get pieces based on time and place');
         } else if(wantOnlyThemePieces) {
             console.log('We get pieces based on theme only');
+        } else if (wantThemeAndTimePieces) {
+            console.log('We get pieces based on time and theme');
+        } else if (wantThemeandPlacePieces) {
+            console.log('We get pieces based on place and theme');
+        } else if (wantThemeAndPlaceAndTimePieces) {
+            console.log('We get pieces based on theme, place, and time');
         }
         else {
             console.log('something went wrong')
@@ -50,6 +60,8 @@ const AllPieces = (props) => {
                     response = await fetch(`${piecesendpoint}/daterange/${startyear}/${endyear}/region/${artist_nationality}/${culture}/${country}`);
                 } else if (wantOnlyThemePieces) {
                     response = await fetch(`${piecesendpoint}/tags/${theme}`);
+                } else if (wantThemeAndTimePieces) {
+                    response = await fetch(`${piecesendpoint}/daterange/${startyear}/${endyear}/tags/${theme}`);
                 }
                 
                 const jsonData = await response.json();

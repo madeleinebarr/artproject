@@ -77,6 +77,8 @@ app.get("/pieces/daterange/:rangeStart/:rangeEnd", async(req, res) => {
     }
 })
 
+// get all pieces based on date and time
+
 app.get("/pieces/daterange/:rangeStart/:rangeEnd/region/:artistNationality/:culture/:country", async (req, res) => {
     try {
         console.log(req.params);
@@ -98,6 +100,20 @@ app.get("/pieces/tags/:term", async(req, res) => {
         const tagPieces = await pool.query("SELECT * FROM pieces WHERE tags::text LIKE ('%' || $1 || '%');", [term]);
 
         res.json(tagPieces.rows);
+    } catch (err) {
+        console.log(err.message);
+    }
+})
+
+// get all pieces based on time and theme
+
+app.get("/pieces/daterange/:rangeStart/:rangeEnd/tags/:term", async(req, res) => {
+    try {
+        console.log(req.params);
+        const { rangeStart, rangeEnd, term } = req.params;
+        const dateRangeTagPieces = await pool.query("SELECT * FROM pieces WHERE (object_end_date BETWEEN $1 AND $2) AND (tags::text LIKE ('%' || $3 || '%'));", [rangeStart, rangeEnd, term]);
+
+        res.json(dateRangeTagPieces.rows);
     } catch (err) {
         console.log(err.message);
     }
