@@ -17,7 +17,7 @@ class FilterByTime extends React.Component {
 
     render() {
 
-        const years = [-500, 0, 500, 1000, 1200, 1300, 1400, 1500, 1600, 1700, 1800, 1900];
+        const years = [-5000, -3000, -1000, -500, 0, 500, 1000, 1200, 1300, 1400, 1500, 1600, 1700, 1800, 1900];
 
         console.log(years.length);
         console.log(years[years.length-1]);
@@ -44,17 +44,21 @@ class FilterByTime extends React.Component {
                 {/* {years.map((year) =>
                 <option startyear={year} endyear={year + 100}>{year}-{year+100}</option>)} */}
 
-                {years.map((year) =>
+                {years.map((year) => 
             
+                    
                 <option startyear={years[years.indexOf(year)]} 
-                        endyear={years[years.indexOf(year)] === years[years.length-1] ? year + 100 : years[years.indexOf(year) + 1]}
+                        endyear={years[years.indexOf(year)] === years[years.length-1] ? new Date().getFullYear() : years[years.indexOf(year) + 1]}
                         key={year}>
                         {years[years.indexOf(year)]}
-                        {/* {year >= 0 ? '-' : ''} */}
-                        -
-                        {years[years.indexOf(year)] === years[years.length-1] ? year + 100 : years[years.indexOf(year) + 1]}
+                        {/* {(years[years.indexOf(year) + 1] || years[years.indexOf(year)]) >= 0 ? '-' : ''} */}
+                        {years[years.indexOf(year) + 1] < 0 ? '' : '-'}
+                        {/* - */}
+                        {years[years.indexOf(year)] === years[years.length-1] ? 'present' : years[years.indexOf(year) + 1]}
                         {year >= 0 ? ' C.E.' : ' B.C.E.'}
-                    </option>)}
+                    </option>
+                    
+                    )}
 
                
                 </select>
