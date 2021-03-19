@@ -77,7 +77,7 @@ app.get("/pieces/daterange/:rangeStart/:rangeEnd", async(req, res) => {
     }
 })
 
-// get all pieces based on date and time
+// get all pieces based on place and time
 
 app.get("/pieces/daterange/:rangeStart/:rangeEnd/region/:artistNationality/:culture/:country", async (req, res) => {
     try {
@@ -114,6 +114,34 @@ app.get("/pieces/daterange/:rangeStart/:rangeEnd/tags/:term", async(req, res) =>
         const dateRangeTagPieces = await pool.query("SELECT * FROM pieces WHERE (object_end_date BETWEEN $1 AND $2) AND (tags::text LIKE ('%' || $3 || '%'));", [rangeStart, rangeEnd, term]);
 
         res.json(dateRangeTagPieces.rows);
+    } catch (err) {
+        console.log(err.message);
+    }
+})
+
+// get all pieces based on theme and place 
+
+app.get("/pieces/region/:artistNationality/:culture/:country/tags/:term", async(req, res) => {
+    try {
+        console.log(req.params);
+        const { artistNationality, culture, country, term } = req.params;
+        const regionTagPieces = await pool.query("SELECT * FROM pieces WHERE (artist_nationality = $1 OR culture = $2 OR country = $3) AND (tags::text LIKE ('%' || $4 || '%'));", [artistNationality, culture, country, term]);
+
+        res.json(regionTagPieces.rows);
+    } catch (err) {
+        console.log(err.message);
+    }
+})
+
+// get all pieces based on time and place and theme
+
+app.get("/pieces/daterange/:rangeStart/:rangeEnd/region/:artistNationality/:culture/:country/tags/:term", async (req, res) => {
+    try {
+        console.log(req.params);
+        const { rangeStart, rangeEnd, artistNationality, culture, country, term } = req.params;
+        const dateRangeRegionTagPieces = await pool.query("SELECT * FROM pieces WHERE (object_end_date BETWEEN $1 AND $2) AND (artist_nationality = $3 OR culture = $4 OR country = $5) AND (tags::text LIKE ('%' || $6 || '%'));", [rangeStart, rangeEnd, artistNationality, culture, country, term]);
+
+        res.json(dateRangeRegionTagPieces.rows);
     } catch (err) {
         console.log(err.message);
     }

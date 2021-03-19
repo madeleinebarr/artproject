@@ -398,3 +398,8 @@ SELECT * FROM pieces WHERE (object_end_date BETWEEN 1800 AND 1900) AND (artist_n
 
 SELECT * FROM pieces WHERE (object_end_date BETWEEN 1800 AND 1900) AND (tags::text LIKE '%Moon%');
 
+SELECT * FROM pieces WHERE (artist_nationality = 'German' OR culture = 'German' OR country = 'Germany') AND (tags::text LIKE '%Moon%');
+
+/*place and time and theme*/
+
+SELECT * FROM pieces WHERE (object_end_date BETWEEN 1800 AND 1900) AND (artist_nationality = 'German' OR culture = 'German' OR country = 'Germany') AND (tags::text LIKE '%Moon%');

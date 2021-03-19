@@ -21,6 +21,7 @@ class FilterByTime extends React.Component {
                 <option startyear="" endyear="">All</option>
                 <option startyear="1600" endyear="1700">1600-1700</option>
                 <option startyear="1700" endyear="1800">1700-1800</option>
+                <option startyear="1800" endyear="1900">1800-1900</option>
                 </select>
         )
     }

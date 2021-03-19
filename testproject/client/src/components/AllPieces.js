@@ -62,7 +62,11 @@ const AllPieces = (props) => {
                     response = await fetch(`${piecesendpoint}/tags/${theme}`);
                 } else if (wantThemeAndTimePieces) {
                     response = await fetch(`${piecesendpoint}/daterange/${startyear}/${endyear}/tags/${theme}`);
-                }
+                } else if (wantThemeandPlacePieces) {
+                    response = await fetch(`${piecesendpoint}/region/${artist_nationality}/${culture}/${country}/tags/${theme}`);
+                } else if (wantThemeAndPlaceAndTimePieces) {
+                    response = await fetch(`${piecesendpoint}/daterange/${startyear}/${endyear}/region/${artist_nationality}/${culture}/${country}/tags/${theme}`);
+                } 
                 
                 const jsonData = await response.json();
                 setPieces(jsonData);
