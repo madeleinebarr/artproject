@@ -93,10 +93,12 @@ const AllPieces = (props) => {
                 {pieces.map(piece => (
                 <Piece 
                 key={piece.objectid} 
+                objectid={piece.objectid}
                 primary_image_small={piece.primary_image_small} 
                 title={piece.title} 
                 artist_display_name={piece.artist_display_name}
                 object_end_date={piece.object_end_date}
+                
                 />
                 ))}
            
