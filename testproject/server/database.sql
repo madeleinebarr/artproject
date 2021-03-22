@@ -268,6 +268,10 @@ SELECT death_year::DECIMAL - birth_year::DECIMAL AS age_at_death FROM artists;
 
 SELECT artist_nationality, COUNT(*) FROM pieces GROUP BY artist_nationality ORDER BY COUNT(*) DESC;
 
+SELECT culture, COUNT(*) FROM pieces GROUP BY culture ORDER BY COUNT(*) DESC;
+
+SELECT country, COUNT(*) FROM pieces GROUP BY country ORDER BY COUNT(*) DESC;
+
 /*what kind of objects do we have in this table?*/
 
 SELECT objectname, COUNT(*) FROM pieces GROUP BY objectname ORDER BY COUNT(*) DESC;
