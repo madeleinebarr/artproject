@@ -1,6 +1,5 @@
 import React, { Fragment, useEffect, useState } from 'react';
 import Piece from './Piece';
-import ThemePieces from './ThemePieces';
 
 const AllPieces = (props) => {
 
