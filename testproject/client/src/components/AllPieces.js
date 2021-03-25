@@ -105,6 +105,7 @@ const AllPieces = (props) => {
                 artist_nationality={piece.artist_nationality}
                 culture={piece.culture}
                 country={piece.country}
+                department={piece.department}
                 />
                 ))}
            

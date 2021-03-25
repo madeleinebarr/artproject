@@ -35,10 +35,31 @@ function PiecePage(props) {
         restoreFromLocalStorage();
 
         console.log(LSpropsObject.object_end_date);
+
+        // getAdditionalImages = () => {
+        //     const additionalImageArray = LSpropsObject.additional_images;
+        //     const 
+        // }
+        let additionalImageArray = LSpropsObject.additional_images;
+
+        
     return (
         <div className="piecepage">
                 <NavBar />
-                    <img className="piece-page-image" style={{width: '1000px'}} src={LSpropsObject.primary_image} alt={LSpropsObject.title}></img>
+                    <img className="piece-page-image" style={{width: '500px'}} src={LSpropsObject.primary_image} alt={LSpropsObject.title}></img>
+
+                    {/* {LSpropsObject.additional_images.length ?
+                    <p>We have images</p>
+                     :
+                    <p>NO ADDITIONAL IMAGES</p>
+                    } */}
+
+                    {LSpropsObject.additional_images.length ?
+                    additionalImageArray.map((image) => <img className="piece-page-additional-image" style={{width: '100px'}} src={image} alt={LSpropsObject.title}></img>)
+                     :
+                    ''
+                    }
+                    {/* {additionalImageArray.map((image) => <img className="piece-page-additional-image" style={{width: '100px'}} src={image} alt={LSpropsObject.title}></img>)} */}
 
                     <p className="piece-page-title">Title: {LSpropsObject.title}</p>
 
@@ -73,6 +94,7 @@ function PiecePage(props) {
 
 
                     <p className="piece-page-medium">Medium: {LSpropsObject.medium}</p>
+                    <p className="piece-page-department">Department: {LSpropsObject.department}</p>
     
                     
 
