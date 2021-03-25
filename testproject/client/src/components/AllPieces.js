@@ -98,7 +98,13 @@ const AllPieces = (props) => {
                 title={piece.title} 
                 artist_display_name={piece.artist_display_name}
                 object_end_date={piece.object_end_date}
-                
+                additional_images={piece.additional_images}
+                primary_image={piece.primary_image}
+                medium={piece.medium}
+                city={piece.city}
+                artist_nationality={piece.artist_nationality}
+                culture={piece.culture}
+                country={piece.country}
                 />
                 ))}
            

@@ -1,497 +1,497 @@
 artist_id,display_name,nationality,display_bio,birth_year,death_year,gender,artist_wikidata_url
-8425,Fitz Henry Lane (formerly Fitz Hugh Lane),American,1804–1865,1804,1865,"",https://www.wikidata.org/wiki/Q462404
-8447,Frederic Edwin Church,American,"American, Hartford, Connecticut 1826–1900 New York",1826,1900,"",https://www.wikidata.org/wiki/Q366212
-8472,Henry Benbridge,American,"American, Philadelphia, Pennsylvania 1743–1812 Philadelphia, Pennsylvania",1743,1812,"",https://www.wikidata.org/wiki/Q5718019
-8475,Camille Corot,French,"French, Paris 1796–1875 Paris",1796,1875,"",https://www.wikidata.org/wiki/Q148475
-8476,Tamar Horton Harris North,American,1833–1905,1833,1905,"",""
+8425,Fitz Henry Lane (formerly Fitz Hugh Lane),American,1804–1865,1804,1865,,https://www.wikidata.org/wiki/Q462404
+8447,Frederic Edwin Church,American,"American, Hartford, Connecticut 1826–1900 New York",1826,1900,,https://www.wikidata.org/wiki/Q366212
+8472,Henry Benbridge,American,"American, Philadelphia, Pennsylvania 1743–1812 Philadelphia, Pennsylvania",1743,1812,,https://www.wikidata.org/wiki/Q5718019
+8475,Camille Corot,French,"French, Paris 1796–1875 Paris",1796,1875,,https://www.wikidata.org/wiki/Q148475
+8476,Tamar Horton Harris North,American,1833–1905,1833,1905,,
 9737,,,,,,,
 8976,,,,,,,
 9738,,,,,,,
 10445,,,,,,,
-8553,Govardhan,"",active ca. 1596–1645,1596,1645,"",https://www.wikidata.org/wiki/Q5588580
-8554,Hans Leinberger,"","German, active 1510–1530",1510,1530,"",https://www.wikidata.org/wiki/Q896372
+8553,Govardhan,,active ca. 1596–1645,1596,1645,,https://www.wikidata.org/wiki/Q5588580
+8554,Hans Leinberger,,"German, active 1510–1530",1510,1530,,https://www.wikidata.org/wiki/Q896372
 10446,,,,,,,
-8596,Andrea del Sarto (Andrea d'Agnolo),Italian,"Italian, Florence 1486–1530 Florence",1486,1530,"",https://www.wikidata.org/wiki/Q5571
-8597,Unknown Artist,"","","","","",https://www.wikidata.org/wiki/Q24238356
-8598,Raphael (Raffaello Sanzio or Santi),Italian,"Italian, Urbino 1483–1520 Rome",1483,1520,"",https://www.wikidata.org/wiki/Q5597
+8596,Andrea del Sarto (Andrea d'Agnolo),Italian,"Italian, Florence 1486–1530 Florence",1486,1530,,https://www.wikidata.org/wiki/Q5571
+8597,Unknown Artist,,,,,,https://www.wikidata.org/wiki/Q24238356
+8598,Raphael (Raffaello Sanzio or Santi),Italian,"Italian, Urbino 1483–1520 Rome",1483,1520,,https://www.wikidata.org/wiki/Q5597
 9814,,,,,,,
-8643,Benvenuto di Giovanni,Italian,"Italian, Siena 1436–after 1518 Siena",1436,1518,"",https://www.wikidata.org/wiki/Q818396
-9054,Joseph Pons,"","French, born 1776",1776,1876,"",""
-8669,Caspar David Friedrich,German,"German, Greifswald 1774–1840 Dresden",1774,1840,"",https://www.wikidata.org/wiki/Q104884
+8643,Benvenuto di Giovanni,Italian,"Italian, Siena 1436–after 1518 Siena",1436,1518,,https://www.wikidata.org/wiki/Q818396
+9054,Joseph Pons,,"French, born 1776",1776,1876,,
+8669,Caspar David Friedrich,German,"German, Greifswald 1774–1840 Dresden",1774,1840,,https://www.wikidata.org/wiki/Q104884
 10516,,,,,,,
 10542,,,,,,,
-8758,Sir Joshua Reynolds,British,"British, Plympton 1723–1792 London",1723,1792,"",https://www.wikidata.org/wiki/Q194402
-8765,Jean Hey (called Master of Moulins),Netherlandish,"Netherlandish, active fourth quarter 15th century",1475,1499,"",https://www.wikidata.org/wiki/Q1268739
-8766,Nicolas Poussin,French,"French, Les Andelys 1594–1665 Rome",1594,1665,"",https://www.wikidata.org/wiki/Q41554
-8767,Master of Saint Francis,Italian,"Italian, Umbria, active third quarter 13th century",1250,1275,"",https://www.wikidata.org/wiki/Q377375
-8310,William Rush,American,1756–1833,1756,1833,"",https://www.wikidata.org/wiki/Q1372840
+8758,Sir Joshua Reynolds,British,"British, Plympton 1723–1792 London",1723,1792,,https://www.wikidata.org/wiki/Q194402
+8765,Jean Hey (called Master of Moulins),Netherlandish,"Netherlandish, active fourth quarter 15th century",1475,1499,,https://www.wikidata.org/wiki/Q1268739
+8766,Nicolas Poussin,French,"French, Les Andelys 1594–1665 Rome",1594,1665,,https://www.wikidata.org/wiki/Q41554
+8767,Master of Saint Francis,Italian,"Italian, Umbria, active third quarter 13th century",1250,1275,,https://www.wikidata.org/wiki/Q377375
+8310,William Rush,American,1756–1833,1756,1833,,https://www.wikidata.org/wiki/Q1372840
 9884,,,,,,,
-8781,Giovanni Paolo Panini,Italian,"Italian, Piacenza 1691–1765 Rome",1691,1765,"",https://www.wikidata.org/wiki/Q286670
-8311,Valentin Bousch,French,"French, active 1514–41, died 1541",1514,1541,"",https://www.wikidata.org/wiki/Q3553568
-8312,"","","","","","",""
-8313,Diego de Pesquera,Spanish,"Spanish, Castile (?), ca. 1540–after 1581, Mexico (?), active 1563–80",1535,1582,"",https://www.wikidata.org/wiki/Q5274876
-8782,Jean Honoré Fragonard,French,"French, Grasse 1732–1806 Paris",1732,1806,"",https://www.wikidata.org/wiki/Q127171
+8781,Giovanni Paolo Panini,Italian,"Italian, Piacenza 1691–1765 Rome",1691,1765,,https://www.wikidata.org/wiki/Q286670
+8311,Valentin Bousch,French,"French, active 1514–41, died 1541",1514,1541,,https://www.wikidata.org/wiki/Q3553568
+8312,,,,,,,
+8313,Diego de Pesquera,Spanish,"Spanish, Castile (?), ca. 1540–after 1581, Mexico (?), active 1563–80",1535,1582,,https://www.wikidata.org/wiki/Q5274876
+8782,Jean Honoré Fragonard,French,"French, Grasse 1732–1806 Paris",1732,1806,,https://www.wikidata.org/wiki/Q127171
 10543,,,,,,,
 10544,,,,,,,
-8831,Ugolino da Siena (Ugolino di Nerio),Italian,"Italian, Siena, active by 1317–died ?1339/49",1317,1349,"",https://www.wikidata.org/wiki/Q1357686
-9143,Antonio Rossellino,Italian,"Italian, Settignano 1427–ca. 1479 Florence",1427,1479,"",https://www.wikidata.org/wiki/Q256079
+8831,Ugolino da Siena (Ugolino di Nerio),Italian,"Italian, Siena, active by 1317–died ?1339/49",1317,1349,,https://www.wikidata.org/wiki/Q1357686
+9143,Antonio Rossellino,Italian,"Italian, Settignano 1427–ca. 1479 Florence",1427,1479,,https://www.wikidata.org/wiki/Q256079
 10545,,,,,,,
-8879,Gustav Klimt,Austrian,"Austrian, Baumgarten 1862–1918 Vienna",1862,1918,"",https://www.wikidata.org/wiki/Q34661
-8880,Andrea Mantegna,Italian,"Italian, Isola di Carturo 1430/31–1506 Mantua",1430,1506,"",https://www.wikidata.org/wiki/Q5681
-8898,Gustave Moreau,French,"French, Paris 1826–1898 Paris",1826,1898,"",https://www.wikidata.org/wiki/Q203828
-8926,Robert Campin,Netherlandish,"Netherlandish, ca. 1375–1444 Tournai",1375,1444,"",https://www.wikidata.org/wiki/Q80442
-8314,Seymour Joseph Guy,"","American (born England), London 1824–1910 New York",1824,1910,"",https://www.wikidata.org/wiki/Q16648954
-8315,William Sidney Mount,American,"American, Setauket, New York 1807–1868 Setauket, New York",1807,1868,"",https://www.wikidata.org/wiki/Q45431
-8316,Lilly Martin Spencer,"",1822–1902,1822,1902,Female,https://www.wikidata.org/wiki/Q2986384
-8317,Charles Willson Peale,American,"American, Chester, Maryland 1741–1827 Philadelphia, Pennsylvania",1741,1827,"",https://www.wikidata.org/wiki/Q454945
-8318,John Singleton Copley,American,"American, Boston, Massachusetts 1738–1815 London",1738,1815,"",https://www.wikidata.org/wiki/Q316016
-8427,Shah Quli,Turkish,"Turkish, born Tabriz, Iran, active ca. mid-16th century",1520,1566,"",""
+8879,Gustav Klimt,Austrian,"Austrian, Baumgarten 1862–1918 Vienna",1862,1918,,https://www.wikidata.org/wiki/Q34661
+8880,Andrea Mantegna,Italian,"Italian, Isola di Carturo 1430/31–1506 Mantua",1430,1506,,https://www.wikidata.org/wiki/Q5681
+8898,Gustave Moreau,French,"French, Paris 1826–1898 Paris",1826,1898,,https://www.wikidata.org/wiki/Q203828
+8926,Robert Campin,Netherlandish,"Netherlandish, ca. 1375–1444 Tournai",1375,1444,,https://www.wikidata.org/wiki/Q80442
+8314,Seymour Joseph Guy,,"American (born England), London 1824–1910 New York",1824,1910,,https://www.wikidata.org/wiki/Q16648954
+8315,William Sidney Mount,American,"American, Setauket, New York 1807–1868 Setauket, New York",1807,1868,,https://www.wikidata.org/wiki/Q45431
+8316,Lilly Martin Spencer,,1822–1902,1822,1902,Female,https://www.wikidata.org/wiki/Q2986384
+8317,Charles Willson Peale,American,"American, Chester, Maryland 1741–1827 Philadelphia, Pennsylvania",1741,1827,,https://www.wikidata.org/wiki/Q454945
+8318,John Singleton Copley,American,"American, Boston, Massachusetts 1738–1815 London",1738,1815,,https://www.wikidata.org/wiki/Q316016
+8427,Shah Quli,Turkish,"Turkish, born Tabriz, Iran, active ca. mid-16th century",1520,1566,,
 8944,,,,,,,
-8473,Robert Fisher,"","American, active 1824–37",1824,1837,"",""
+8473,Robert Fisher,,"American, active 1824–37",1824,1837,,
 9740,,,,,,,
-8525,Lodewijck Grouwels,"Flemish, active The Netherlands","Flemish, active Middelburg, Zeeland, The Netherlands 1593–1600",1593,1600,"",""
+8525,Lodewijck Grouwels,"Flemish, active The Netherlands","Flemish, active Middelburg, Zeeland, The Netherlands 1593–1600",1593,1600,,
 9749,,,,,,,
-8540,Bartolomeo Cristofori,Italian,Padua 1655–1731 Florence,1655,1731,"",https://www.wikidata.org/wiki/Q301597
+8540,Bartolomeo Cristofori,Italian,Padua 1655–1731 Florence,1655,1731,,https://www.wikidata.org/wiki/Q301597
 8992,,,,,,,
-8348,John Trumbull,American,"American, Lebanon, Connecticut 1756–1843 New York",1756,1843,"",https://www.wikidata.org/wiki/Q369263
-8349,James Peale,American,"American, Chestertown, Maryland 1749–1831 Philadelphia, Pennsylvania",1749,1831,"",https://www.wikidata.org/wiki/Q3161332
-8393,Simon Bening,Netherlandish,"Netherlandish, Ghent (?) 1483/84–1561 Bruges",1483,1561,"",https://www.wikidata.org/wiki/Q928015
-8394,"Imperial Porcelain Manufactory, St. Petersburg",Russian,"Russian, 1744–present",1744,9999,"",""
-8395,John Smibert,"American, Scottish","American, Edinburgh, Scotland 1688–1751 Boston, Massachusetts",1688,1751,"",https://www.wikidata.org/wiki/Q3182482
-8620,Hans Holbein the Younger,German,"German, Augsburg 1497/98–1543 London",1497,1543,"",https://www.wikidata.org/wiki/Q48319
-8621,Evelyn De Morgan,"","British, London 1855–1919 London",1855,1919,Female,https://www.wikidata.org/wiki/Q235903
-8624,Charles E. Weir,"","American, 1823–1845",1823,1845,"",""
-8736,Luis Meléndez,Spanish,"Spanish, Naples 1716–1780 Madrid",1716,1780,"",https://www.wikidata.org/wiki/Q707478
-8737,Thomas Hovenden,"American, born Ireland","American (born Ireland), Dunmanway 1840–1895 Plymouth Meeting, Pennsylvania",1840,1895,"",https://www.wikidata.org/wiki/Q3525211
-8738,Gil de Siloe,Spanish,"Spanish, active 1475–1505",1475,1505,"",https://www.wikidata.org/wiki/Q1283976
-8759,Group of Boston 00.348,"","","","","",""
-8784,Egon Schiele,Austrian,"Austrian, Tulln 1890–1918 Vienna",1890,1918,"",https://www.wikidata.org/wiki/Q44032
-8836,Thomas Gainsborough,British,"British, Sudbury 1727–1788 London",1727,1788,"",https://www.wikidata.org/wiki/Q192720
-8837,Sesson Shūkei,Japanese,ca. 1504–ca. 1589,1504,1589,"",https://www.wikidata.org/wiki/Q3480606
-8838,Joseph Wright (Wright of Derby),British,"British, Derby 1734–1797 Derby",1734,1797,"",https://www.wikidata.org/wiki/Q214062
-8881,Jacques Louis David,French,"French, Paris 1748–1825 Brussels",1748,1825,"",https://www.wikidata.org/wiki/Q83155
-8928,Caravaggio (Michelangelo Merisi),Italian,"Italian, Milan or Caravaggio 1571–1610 Porto Ercole",1571,1610,"",https://www.wikidata.org/wiki/Q42207
-9252,Jan Brueghel the Elder,Netherlandish,"Netherlandish, Brussels 1568–1625 Antwerp",1568,1625,"",https://www.wikidata.org/wiki/Q209050
-9328,'Abdullah ibn al-Fadl,"","","","","",""
-9388,Robert Jones,"","",1700,1800,"",""
-8449,James McNeill Whistler,American,"American, Lowell, Massachusetts 1834–1903 London",1834,1903,"",https://www.wikidata.org/wiki/Q203643
+8348,John Trumbull,American,"American, Lebanon, Connecticut 1756–1843 New York",1756,1843,,https://www.wikidata.org/wiki/Q369263
+8349,James Peale,American,"American, Chestertown, Maryland 1749–1831 Philadelphia, Pennsylvania",1749,1831,,https://www.wikidata.org/wiki/Q3161332
+8393,Simon Bening,Netherlandish,"Netherlandish, Ghent (?) 1483/84–1561 Bruges",1483,1561,,https://www.wikidata.org/wiki/Q928015
+8394,"Imperial Porcelain Manufactory, St. Petersburg",Russian,"Russian, 1744–present",1744,9999,,
+8395,John Smibert,"American, Scottish","American, Edinburgh, Scotland 1688–1751 Boston, Massachusetts",1688,1751,,https://www.wikidata.org/wiki/Q3182482
+8620,Hans Holbein the Younger,German,"German, Augsburg 1497/98–1543 London",1497,1543,,https://www.wikidata.org/wiki/Q48319
+8621,Evelyn De Morgan,,"British, London 1855–1919 London",1855,1919,Female,https://www.wikidata.org/wiki/Q235903
+8624,Charles E. Weir,,"American, 1823–1845",1823,1845,,
+8736,Luis Meléndez,Spanish,"Spanish, Naples 1716–1780 Madrid",1716,1780,,https://www.wikidata.org/wiki/Q707478
+8737,Thomas Hovenden,"American, born Ireland","American (born Ireland), Dunmanway 1840–1895 Plymouth Meeting, Pennsylvania",1840,1895,,https://www.wikidata.org/wiki/Q3525211
+8738,Gil de Siloe,Spanish,"Spanish, active 1475–1505",1475,1505,,https://www.wikidata.org/wiki/Q1283976
+8759,Group of Boston 00.348,,,,,,
+8784,Egon Schiele,Austrian,"Austrian, Tulln 1890–1918 Vienna",1890,1918,,https://www.wikidata.org/wiki/Q44032
+8836,Thomas Gainsborough,British,"British, Sudbury 1727–1788 London",1727,1788,,https://www.wikidata.org/wiki/Q192720
+8837,Sesson Shūkei,Japanese,ca. 1504–ca. 1589,1504,1589,,https://www.wikidata.org/wiki/Q3480606
+8838,Joseph Wright (Wright of Derby),British,"British, Derby 1734–1797 Derby",1734,1797,,https://www.wikidata.org/wiki/Q214062
+8881,Jacques Louis David,French,"French, Paris 1748–1825 Brussels",1748,1825,,https://www.wikidata.org/wiki/Q83155
+8928,Caravaggio (Michelangelo Merisi),Italian,"Italian, Milan or Caravaggio 1571–1610 Porto Ercole",1571,1610,,https://www.wikidata.org/wiki/Q42207
+9252,Jan Brueghel the Elder,Netherlandish,"Netherlandish, Brussels 1568–1625 Antwerp",1568,1625,,https://www.wikidata.org/wiki/Q209050
+9328,'Abdullah ibn al-Fadl,,,,,,
+9388,Robert Jones,,,1700,1800,,
+8449,James McNeill Whistler,American,"American, Lowell, Massachusetts 1834–1903 London",1834,1903,,https://www.wikidata.org/wiki/Q203643
 8945,,,,,,,
-8479,Suzuki Harunobu,Japanese,"Japanese, 1725–1770",1725,1770,"",https://www.wikidata.org/wiki/Q360978
-8480,Niccolò di Buonaccorso,Italian,"Italian, active Siena by 1372–died 1388 Siena",1372,1388,"",https://www.wikidata.org/wiki/Q3875919
+8479,Suzuki Harunobu,Japanese,"Japanese, 1725–1770",1725,1770,,https://www.wikidata.org/wiki/Q360978
+8480,Niccolò di Buonaccorso,Italian,"Italian, active Siena by 1372–died 1388 Siena",1372,1388,,https://www.wikidata.org/wiki/Q3875919
 9696,,,,,,,
-8503,Daniel Pabst,American,"American, born Germany 1826–1910 Philadelphia, Pennsylvania",1826,1910,"",https://www.wikidata.org/wiki/Q5218374
-8504,Giovanni Battista Tiepolo,Italian,"Italian, Venice 1696–1770 Madrid",1696,1770,"",https://www.wikidata.org/wiki/Q186202
-8505,Francis William Edmonds,American,"American, Hudson, New York 1806–1863 Bronxville, New York",1806,1863,"",https://www.wikidata.org/wiki/Q3680885
-8321,Prince Demah Barnes,"","","","","",https://www.wikidata.org/wiki/Q22343687
-8325,Charles Cromwell Ingham,"American, born Ireland","American (born Ireland), Dublin 1786–1863 New York",1786,1863,"",https://www.wikidata.org/wiki/Q5076001
-8326,Gilbert Stuart,American,"American, North Kingston, Rhode Island 1755–1828 Boston, Massachusetts",1755,1828,"",https://www.wikidata.org/wiki/Q41402
+8503,Daniel Pabst,American,"American, born Germany 1826–1910 Philadelphia, Pennsylvania",1826,1910,,https://www.wikidata.org/wiki/Q5218374
+8504,Giovanni Battista Tiepolo,Italian,"Italian, Venice 1696–1770 Madrid",1696,1770,,https://www.wikidata.org/wiki/Q186202
+8505,Francis William Edmonds,American,"American, Hudson, New York 1806–1863 Bronxville, New York",1806,1863,,https://www.wikidata.org/wiki/Q3680885
+8321,Prince Demah Barnes,,,,,,https://www.wikidata.org/wiki/Q22343687
+8325,Charles Cromwell Ingham,"American, born Ireland","American (born Ireland), Dublin 1786–1863 New York",1786,1863,,https://www.wikidata.org/wiki/Q5076001
+8326,Gilbert Stuart,American,"American, North Kingston, Rhode Island 1755–1828 Boston, Massachusetts",1755,1828,,https://www.wikidata.org/wiki/Q41402
 9697,,,,,,,
-8374,John Rubens Smith,American,"American, London 1775–1849 New York",1775,1849,"",https://www.wikidata.org/wiki/Q1701617
-8375,Jacopo [Giacomo] Barozzi da Vignola,Italian,"Italian, Vignola 1507–1573 Rome",1507,1573,"",https://www.wikidata.org/wiki/Q297565
-8376,John Quidor,"",1801–1881,1801,1881,"",https://www.wikidata.org/wiki/Q3182324
+8374,John Rubens Smith,American,"American, London 1775–1849 New York",1775,1849,,https://www.wikidata.org/wiki/Q1701617
+8375,Jacopo [Giacomo] Barozzi da Vignola,Italian,"Italian, Vignola 1507–1573 Rome",1507,1573,,https://www.wikidata.org/wiki/Q297565
+8376,John Quidor,,1801–1881,1801,1881,,https://www.wikidata.org/wiki/Q3182324
 10449,,,,,,,
-8397,Metropolitan Painter,"",active 7th–8th century A.D.,0600,0800,"",""
+8397,Metropolitan Painter,,active 7th–8th century A.D.,600,800,,
 9762,,,,,,,
-8572,Antonio Pollaiuolo,Italian,"Italian, Florence ca. 1432–1498 Rome",1432,1498,"",https://www.wikidata.org/wiki/Q318640
-8573,James Bard,"","","","","",""
-8574,Chakalte',Guatemalan or Mexican,"Guatemalan or Mexican, active ca. A.D. 750–800",0740,0825,"",""
+8572,Antonio Pollaiuolo,Italian,"Italian, Florence ca. 1432–1498 Rome",1432,1498,,https://www.wikidata.org/wiki/Q318640
+8573,James Bard,,,,,,
+8574,Chakalte',Guatemalan or Mexican,"Guatemalan or Mexican, active ca. A.D. 750–800",740,825,,
 10450,,,,,,,
-8601,Daniel Burnap,"","American, 1759–1838",1759,1838,"",https://www.wikidata.org/wiki/Q56612419
-8602,Jean Démosthène Dugourc,French,"French, Versailles 1749–1825 Paris",1749,1825,"",https://www.wikidata.org/wiki/Q3165352
+8601,Daniel Burnap,,"American, 1759–1838",1759,1838,,https://www.wikidata.org/wiki/Q56612419
+8602,Jean Démosthène Dugourc,French,"French, Versailles 1749–1825 Paris",1749,1825,,https://www.wikidata.org/wiki/Q3165352
 10459,,,,,,,
-8622,Guillaume Voiriot,French,"French, Paris 1713–1799 Paris",1713,1799,"",https://www.wikidata.org/wiki/Q1553935
+8622,Guillaume Voiriot,French,"French, Paris 1713–1799 Paris",1713,1799,,https://www.wikidata.org/wiki/Q1553935
 9795,,,,,,,
-8648,Eugène Cuvelier,French,"French, 1837–1900",1837,1900,"",https://www.wikidata.org/wiki/Q3059801
+8648,Eugène Cuvelier,French,"French, 1837–1900",1837,1900,,https://www.wikidata.org/wiki/Q3059801
 10460,,,,,,,
-8672,Maestro delle Storie del Pane,"","Italian (Emilian), active late 15th century",1470,1500,"",""
-8673,Bartolomé Estebán Murillo,Spanish,"Spanish, Seville 1617–1682 Seville",1617,1682,"",https://www.wikidata.org/wiki/Q192062
+8672,Maestro delle Storie del Pane,,"Italian (Emilian), active late 15th century",1470,1500,,
+8673,Bartolomé Estebán Murillo,Spanish,"Spanish, Seville 1617–1682 Seville",1617,1682,,https://www.wikidata.org/wiki/Q192062
 10486,,,,,,,
-9093,Achilles Painter,"","","","","",https://www.wikidata.org/wiki/Q125902
-9094,Master IC (probably Jean Court),"French, Limoges","French, Limoges, active 1614–1627",1614,1627,"",""
-8760,Kano Sansetsu,Japanese,"Japanese, 1590–1651",1590,1651,"",https://www.wikidata.org/wiki/Q3192790
-8785,David Tecchler,"Austrian, active Italy","Austrian, Salzburg 1666–1747 Rome",1666,1747,"",https://www.wikidata.org/wiki/Q3703346
-8805,Anthony van Dyck,"","Flemish, Antwerp 1599–1641 London",1599,1641,"",https://www.wikidata.org/wiki/Q150679
-8806,Botticelli (Alessandro di Mariano Filipepi),Italian,"Italian, Florence 1444/45–1510 Florence",1444,1510,"",https://www.wikidata.org/wiki/Q5669
-8807,Duccio di Buoninsegna,Italian,"Italian, active by 1278–died 1318 Siena",1278,1318,"",https://www.wikidata.org/wiki/Q15792
-9373,Sèvres Manufactory,"","French, 1740–present",1740,9999,"",https://www.wikidata.org/wiki/Q653307
-8430,Georg Voll,German,"German, Nuremberg active ca. 1540–ca. 1575, Nuremberg",1540,1575,"",""
-8431,Joshua Johnson,"","American, ca. 1763–ca. 1824",1758,1829,"",https://www.wikidata.org/wiki/Q958068
-8432,Eastman Johnson,American,"American, Lovell, Maine 1824–1906 New York",1824,1906,"",https://www.wikidata.org/wiki/Q1278282
+9093,Achilles Painter,,,,,,https://www.wikidata.org/wiki/Q125902
+9094,Master IC (probably Jean Court),"French, Limoges","French, Limoges, active 1614–1627",1614,1627,,
+8760,Kano Sansetsu,Japanese,"Japanese, 1590–1651",1590,1651,,https://www.wikidata.org/wiki/Q3192790
+8785,David Tecchler,"Austrian, active Italy","Austrian, Salzburg 1666–1747 Rome",1666,1747,,https://www.wikidata.org/wiki/Q3703346
+8805,Anthony van Dyck,,"Flemish, Antwerp 1599–1641 London",1599,1641,,https://www.wikidata.org/wiki/Q150679
+8806,Botticelli (Alessandro di Mariano Filipepi),Italian,"Italian, Florence 1444/45–1510 Florence",1444,1510,,https://www.wikidata.org/wiki/Q5669
+8807,Duccio di Buoninsegna,Italian,"Italian, active by 1278–died 1318 Siena",1278,1318,,https://www.wikidata.org/wiki/Q15792
+9373,Sèvres Manufactory,,"French, 1740–present",1740,9999,,https://www.wikidata.org/wiki/Q653307
+8430,Georg Voll,German,"German, Nuremberg active ca. 1540–ca. 1575, Nuremberg",1540,1575,,
+8431,Joshua Johnson,,"American, ca. 1763–ca. 1824",1758,1829,,https://www.wikidata.org/wiki/Q958068
+8432,Eastman Johnson,American,"American, Lovell, Maine 1824–1906 New York",1824,1906,,https://www.wikidata.org/wiki/Q1278282
 8946,,,,,,,
-8482,Hafiz,"","Iranian, Shiraz ca. 1325–1390 Shiraz",1325,1390,"",https://www.wikidata.org/wiki/Q6240
-8483,Worthington Whittredge,"","Springfield, Ohio 1820–1910 Summit, New Jersey",1820,1910,"",https://www.wikidata.org/wiki/Q1370512
-8484,Elizabeth Van Horne Clarkson,American,1771–1852,1771,1852,Female,""
-8485,Auguste Renoir,French,"French, Limoges 1841–1919 Cagnes-sur-Mer",1841,1919,"",https://www.wikidata.org/wiki/Q39931
+8482,Hafiz,,"Iranian, Shiraz ca. 1325–1390 Shiraz",1325,1390,,https://www.wikidata.org/wiki/Q6240
+8483,Worthington Whittredge,,"Springfield, Ohio 1820–1910 Summit, New Jersey",1820,1910,,https://www.wikidata.org/wiki/Q1370512
+8484,Elizabeth Van Horne Clarkson,American,1771–1852,1771,1852,Female,
+8485,Auguste Renoir,French,"French, Limoges 1841–1919 Cagnes-sur-Mer",1841,1919,,https://www.wikidata.org/wiki/Q39931
 9699,,,,,,,
-8507,George A. Schastey & Co.,"","American, New York, 1873–1897",1873,1897,"",""
+8507,George A. Schastey & Co.,,"American, New York, 1873–1897",1873,1897,,
 9700,,,,,,,
 9702,,,,,,,
-8322,Robert S. Duncanson,"",1821–1872,1821,1872,"",https://www.wikidata.org/wiki/Q2699889
+8322,Robert S. Duncanson,,1821–1872,1821,1872,,https://www.wikidata.org/wiki/Q2699889
 9703,,,,,,,
-8323,Georges Seurat,French,"French, Paris 1859–1891 Paris",1859,1891,"",https://www.wikidata.org/wiki/Q34013
+8323,Georges Seurat,French,"French, Paris 1859–1891 Paris",1859,1891,,https://www.wikidata.org/wiki/Q34013
 9705,,,,,,,
-8583,Ralph Earl,American,"American, Worcester County, Massachusetts 1751–1801 Bolton, Connecticut",1751,1801,"",https://www.wikidata.org/wiki/Q1350959
-8585,Athabascan Family,"","","","","",""
-8586,Giovanni Bellini,Italian,"Italian, Venice, active by 1459–died 1516 Venice",1459,1516,"",https://www.wikidata.org/wiki/Q17169
+8583,Ralph Earl,American,"American, Worcester County, Massachusetts 1751–1801 Bolton, Connecticut",1751,1801,,https://www.wikidata.org/wiki/Q1350959
+8585,Athabascan Family,,,,,,
+8586,Giovanni Bellini,Italian,"Italian, Venice, active by 1459–died 1516 Venice",1459,1516,,https://www.wikidata.org/wiki/Q17169
 9706,,,,,,,
 9707,,,,,,,
-8626,Edwin Austin Abbey,American,"American, Philadelphia, Pennsylvania 1852–1911 London",1852,1911,"",https://www.wikidata.org/wiki/Q259538
+8626,Edwin Austin Abbey,American,"American, Philadelphia, Pennsylvania 1852–1911 London",1852,1911,,https://www.wikidata.org/wiki/Q259538
 9708,,,,,,,
-8650,Jacob van Ruisdael,Dutch,"Dutch, Haarlem 1628/29–1682 Amsterdam",1628,1682,"",https://www.wikidata.org/wiki/Q213612
+8650,Jacob van Ruisdael,Dutch,"Dutch, Haarlem 1628/29–1682 Amsterdam",1628,1682,,https://www.wikidata.org/wiki/Q213612
 9709,,,,,,,
 9710,,,,,,,
-8693,Elisabeth Louise Vigée Le Brun,"","French, Paris 1755–1842 Paris",1755,1842,Female,https://www.wikidata.org/wiki/Q213163
+8693,Elisabeth Louise Vigée Le Brun,,"French, Paris 1755–1842 Paris",1755,1842,Female,https://www.wikidata.org/wiki/Q213163
 9714,,,,,,,
-8716,Jean de Touyl,French,"French, died 1349/50",1270,1350,"",""
-8741,Hans Baldung (called Hans Baldung Grien),German,"German, Schwäbisch Gmünd (?) 1484/85–1545 Strasbourg",1484,1545,"",https://www.wikidata.org/wiki/Q164696
-8399,Augustus Saint-Gaudens,American,"American, Dublin 1848–1907 Cornish, New Hampshire",1848,1907,"",https://www.wikidata.org/wiki/Q770625
-8742,Berlin Painter,"","","","","",https://www.wikidata.org/wiki/Q821647
-8743,Leonardo da Vinci,Italian,"Italian, Vinci 1452–1519 Amboise",1452,1519,"",https://www.wikidata.org/wiki/Q762
-8744,Bastis Master,"","","","","",""
-8746,Albrecht Dürer,German,"German, Nuremberg 1471–1528 Nuremberg",1471,1528,"",https://www.wikidata.org/wiki/Q5580
-8400,David Lucas,British,"British, Northamptonshire 1802–1881 London",1802,1881,"",https://www.wikidata.org/wiki/Q18508114
-8748,Han Gan,Chinese,"Chinese, active ca. 742–756",0742,0756,"",https://www.wikidata.org/wiki/Q561952
+8716,Jean de Touyl,French,"French, died 1349/50",1270,1350,,
+8741,Hans Baldung (called Hans Baldung Grien),German,"German, Schwäbisch Gmünd (?) 1484/85–1545 Strasbourg",1484,1545,,https://www.wikidata.org/wiki/Q164696
+8399,Augustus Saint-Gaudens,American,"American, Dublin 1848–1907 Cornish, New Hampshire",1848,1907,,https://www.wikidata.org/wiki/Q770625
+8742,Berlin Painter,,,,,,https://www.wikidata.org/wiki/Q821647
+8743,Leonardo da Vinci,Italian,"Italian, Vinci 1452–1519 Amboise",1452,1519,,https://www.wikidata.org/wiki/Q762
+8744,Bastis Master,,,,,,
+8746,Albrecht Dürer,German,"German, Nuremberg 1471–1528 Nuremberg",1471,1528,,https://www.wikidata.org/wiki/Q5580
+8400,David Lucas,British,"British, Northamptonshire 1802–1881 London",1802,1881,,https://www.wikidata.org/wiki/Q18508114
+8748,Han Gan,Chinese,"Chinese, active ca. 742–756",742,756,,https://www.wikidata.org/wiki/Q561952
 9742,,,,,,,
 10451,,,,,,,
 10452,,,,,,,
-8809,Honoré Daumier,French,"French, Marseilles 1808–1879 Valmondois",1808,1879,"",https://www.wikidata.org/wiki/Q187506
+8809,Honoré Daumier,French,"French, Marseilles 1808–1879 Valmondois",1808,1879,,https://www.wikidata.org/wiki/Q187506
 10453,,,,,,,
 10454,,,,,,,
-8401,Unknown,"","","","","",https://www.wikidata.org/wiki/Q24238356
-8403,Jules Tavernier,"","American (born France), Paris 1844–1889 Honolulu, Hawaii",1844,1889,"",https://www.wikidata.org/wiki/Q3188933
-8404,Albert Bierstadt,American,"American, Solingen 1830–1902 New York",1830,1902,"",https://www.wikidata.org/wiki/Q77132
+8401,Unknown,,,,,,https://www.wikidata.org/wiki/Q24238356
+8403,Jules Tavernier,,"American (born France), Paris 1844–1889 Honolulu, Hawaii",1844,1889,,https://www.wikidata.org/wiki/Q3188933
+8404,Albert Bierstadt,American,"American, Solingen 1830–1902 New York",1830,1902,,https://www.wikidata.org/wiki/Q77132
 10455,,,,,,,
-8405,Fidelia Bridges,"","(American, Salem, Massachusetts 1834-1923 Canaan, Connecticut)",1834,1923,Female,https://www.wikidata.org/wiki/Q5446751
+8405,Fidelia Bridges,,"(American, Salem, Massachusetts 1834-1923 Canaan, Connecticut)",1834,1923,Female,https://www.wikidata.org/wiki/Q5446751
 10456,,,,,,,
 10457,,,,,,,
-8406,Joseph B. Barry and Son,"",1757–1838,1757,1838,"",https://www.wikidata.org/wiki/Q98245736
-9918,Jean-Louis Lemoyne,"","French, 1665–1755",1665,1755,"",https://www.wikidata.org/wiki/Q2462348
+8406,Joseph B. Barry and Son,,1757–1838,1757,1838,,https://www.wikidata.org/wiki/Q98245736
+9918,Jean-Louis Lemoyne,,"French, 1665–1755",1665,1755,,https://www.wikidata.org/wiki/Q2462348
 10520,,,,,,,
-8934,Francesco di Marco Marmitta da Parma,Emilian,"Emilian, 1457–1505",1457,1505,"",https://www.wikidata.org/wiki/Q3027938
-8453,Canaletto (Giovanni Antonio Canal),Italian,"Italian, Venice 1697–1768 Venice",1697,1768,"",https://www.wikidata.org/wiki/Q182664
-8462,Marie-Charles-Isidore Choiselat,French,"French, 1815–1858",1815,1858,"",https://www.wikidata.org/wiki/Q2958141
-8463,He Nupa Wanica/ Joseph No Two Horns,"","Hunkpapa Lakota/ Teton Sioux, 1852–1942",1852,1942,"",""
+8934,Francesco di Marco Marmitta da Parma,Emilian,"Emilian, 1457–1505",1457,1505,,https://www.wikidata.org/wiki/Q3027938
+8453,Canaletto (Giovanni Antonio Canal),Italian,"Italian, Venice 1697–1768 Venice",1697,1768,,https://www.wikidata.org/wiki/Q182664
+8462,Marie-Charles-Isidore Choiselat,French,"French, 1815–1858",1815,1858,,https://www.wikidata.org/wiki/Q2958141
+8463,He Nupa Wanica/ Joseph No Two Horns,,"Hunkpapa Lakota/ Teton Sioux, 1852–1942",1852,1942,,
 8947,,,,,,,
-8508,Thomas Waterman Wood,American,"American, Montpelier, Vermont 1823–1903 New York",1823,1903,"",https://www.wikidata.org/wiki/Q7794913
+8508,Thomas Waterman Wood,American,"American, Montpelier, Vermont 1823–1903 New York",1823,1903,,https://www.wikidata.org/wiki/Q7794913
 9701,,,,,,,
 9716,,,,,,,
-8544,Painter of the Woolly Satyrs,"","","","","",https://www.wikidata.org/wiki/Q33897046
-8327,Theodor Kaufmann,"","American (born Germany), Uelzen 1814–1896 New York",1814,1896,"",https://www.wikidata.org/wiki/Q7781868
-8328,Philip Webb,British,"British, Oxford 1831–1915 West Sussex",1831,1915,"",https://www.wikidata.org/wiki/Q531721
-8329,William Michael Harnett,"",1848–1892,1848,1892,"",https://www.wikidata.org/wiki/Q935186
-8559,Michiel Sweerts,Flemish,"Flemish, Brussels 1618–1664 Goa",1618,1664,"",https://www.wikidata.org/wiki/Q1342328
+8544,Painter of the Woolly Satyrs,,,,,,https://www.wikidata.org/wiki/Q33897046
+8327,Theodor Kaufmann,,"American (born Germany), Uelzen 1814–1896 New York",1814,1896,,https://www.wikidata.org/wiki/Q7781868
+8328,Philip Webb,British,"British, Oxford 1831–1915 West Sussex",1831,1915,,https://www.wikidata.org/wiki/Q531721
+8329,William Michael Harnett,,1848–1892,1848,1892,,https://www.wikidata.org/wiki/Q935186
+8559,Michiel Sweerts,Flemish,"Flemish, Brussels 1618–1664 Goa",1618,1664,,https://www.wikidata.org/wiki/Q1342328
 9743,,,,,,,
 9745,,,,,,,
-8605,Bartholomeus Spranger,Netherlandish,"Netherlandish, Antwerp 1546–1611 Prague",1546,1611,"",https://www.wikidata.org/wiki/Q447682
-8330,Edwin Lord Weeks,American,"American, Boston, Massachusetts 1849–1903 Paris",1849,1903,"",https://www.wikidata.org/wiki/Q3735411
-8331,Nicolás Enríquez,Mexican,"Mexican, 1704–1790",1704,1795,"",https://www.wikidata.org/wiki/Q18203214
+8605,Bartholomeus Spranger,Netherlandish,"Netherlandish, Antwerp 1546–1611 Prague",1546,1611,,https://www.wikidata.org/wiki/Q447682
+8330,Edwin Lord Weeks,American,"American, Boston, Massachusetts 1849–1903 Paris",1849,1903,,https://www.wikidata.org/wiki/Q3735411
+8331,Nicolás Enríquez,Mexican,"Mexican, 1704–1790",1704,1795,,https://www.wikidata.org/wiki/Q18203214
 9746,,,,,,,
-8628,Robert Frederick Blum,American,"American, Cincinnati, Ohio 1857–1903 New York",1857,1903,"",https://www.wikidata.org/wiki/Q3592147
-8353,Hans Memling,Netherlandish,"Netherlandish, Seligenstadt, active by 1465–died 1494 Bruges",1465,1494,"",https://www.wikidata.org/wiki/Q106851
+8628,Robert Frederick Blum,American,"American, Cincinnati, Ohio 1857–1903 New York",1857,1903,,https://www.wikidata.org/wiki/Q3592147
+8353,Hans Memling,Netherlandish,"Netherlandish, Seligenstadt, active by 1465–died 1494 Bruges",1465,1494,,https://www.wikidata.org/wiki/Q106851
 10462,,,,,,,
-8652,James M. Sommerville,"",1825–1899,1825,1899,"",""
-8654,Tara,"","Indian, active 1836–1870",1836,1870,"",""
-8657,Andrea Amati,Italian,"Italian, Cremona ca. 1505–1578 Cremona",1505,1578,"",https://www.wikidata.org/wiki/Q493320
-8694,Thomas Sully,American,"American, Horncastle, Lincolnshire 1783–1872 Philadelphia, Pennsylvania",1783,1872,"",https://www.wikidata.org/wiki/Q786545
-8356,Mustafa ibn Vali,"","","","","",""
-8357,John La Farge,American,"American, New York 1835–1910 Providence, Rhode Island",1835,1910,"",https://www.wikidata.org/wiki/Q3120087
-8718,Paul Cézanne,French,"French, Aix-en-Provence 1839–1906 Aix-en-Provence",1839,1906,"",https://www.wikidata.org/wiki/Q35548
-8358,Enoch Wood Perry,"",1831–1915,1831,1915,"",https://www.wikidata.org/wiki/Q5379343
-8359,Winslow Homer,American,"American, Boston, Massachusetts 1836–1910 Prouts Neck, Maine",1836,1910,"",https://www.wikidata.org/wiki/Q344838
+8652,James M. Sommerville,,1825–1899,1825,1899,,
+8654,Tara,,"Indian, active 1836–1870",1836,1870,,
+8657,Andrea Amati,Italian,"Italian, Cremona ca. 1505–1578 Cremona",1505,1578,,https://www.wikidata.org/wiki/Q493320
+8694,Thomas Sully,American,"American, Horncastle, Lincolnshire 1783–1872 Philadelphia, Pennsylvania",1783,1872,,https://www.wikidata.org/wiki/Q786545
+8356,Mustafa ibn Vali,,,,,,
+8357,John La Farge,American,"American, New York 1835–1910 Providence, Rhode Island",1835,1910,,https://www.wikidata.org/wiki/Q3120087
+8718,Paul Cézanne,French,"French, Aix-en-Provence 1839–1906 Aix-en-Provence",1839,1906,,https://www.wikidata.org/wiki/Q35548
+8358,Enoch Wood Perry,,1831–1915,1831,1915,,https://www.wikidata.org/wiki/Q5379343
+8359,Winslow Homer,American,"American, Boston, Massachusetts 1836–1910 Prouts Neck, Maine",1836,1910,,https://www.wikidata.org/wiki/Q344838
 10522,,,,,,,
-9097,Exekias,"","","","","",https://www.wikidata.org/wiki/Q358541
-8914,Edouard Manet,French,"French, Paris 1832–1883 Paris",1832,1883,"",https://www.wikidata.org/wiki/Q40599
-8915,Gustave Courbet,French,"French, Ornans 1819–1877 La Tour-de-Peilz",1819,1877,"",https://www.wikidata.org/wiki/Q34618
-8916,Velázquez (Diego Rodríguez de Silva y Velázquez),Spanish,"Spanish, Seville 1599–1660 Madrid",1599,1660,"",https://www.wikidata.org/wiki/Q297
-9173,Persephone Painter,"","","","","",https://www.wikidata.org/wiki/Q16203035
-8454,Albert Pinkham Ryder,American,"American, New Bedford, Massachusetts 1847–1917 Elmhurst, New York",1847,1917,"",https://www.wikidata.org/wiki/Q948598
-8457,Pierre de Goesin,"","",0,0,"",""
-8458,Raphaelle Peale,"",1774–1825,1774,1825,"",https://www.wikidata.org/wiki/Q1374536
-8459,Jean Fouquet,French,"French, Tours ca. 1425–ca. 1478 Tours",1425,1478,"",https://www.wikidata.org/wiki/Q311398
-8460,George P. A. Healy,"",1813–1894,1813,1894,"",https://www.wikidata.org/wiki/Q64633
-8461,David Johnson,British,British,"","","",""
+9097,Exekias,,,,,,https://www.wikidata.org/wiki/Q358541
+8914,Edouard Manet,French,"French, Paris 1832–1883 Paris",1832,1883,,https://www.wikidata.org/wiki/Q40599
+8915,Gustave Courbet,French,"French, Ornans 1819–1877 La Tour-de-Peilz",1819,1877,,https://www.wikidata.org/wiki/Q34618
+8916,Velázquez (Diego Rodríguez de Silva y Velázquez),Spanish,"Spanish, Seville 1599–1660 Madrid",1599,1660,,https://www.wikidata.org/wiki/Q297
+9173,Persephone Painter,,,,,,https://www.wikidata.org/wiki/Q16203035
+8454,Albert Pinkham Ryder,American,"American, New Bedford, Massachusetts 1847–1917 Elmhurst, New York",1847,1917,,https://www.wikidata.org/wiki/Q948598
+8457,Pierre de Goesin,,,0,0,,
+8458,Raphaelle Peale,,1774–1825,1774,1825,,https://www.wikidata.org/wiki/Q1374536
+8459,Jean Fouquet,French,"French, Tours ca. 1425–ca. 1478 Tours",1425,1478,,https://www.wikidata.org/wiki/Q311398
+8460,George P. A. Healy,,1813–1894,1813,1894,,https://www.wikidata.org/wiki/Q64633
+8461,David Johnson,British,British,,,,
 9704,,,,,,,
-8487,Martin Schongauer,German,"German, Colmar ca. 1435/50–1491 Breisach",1435,1491,"",https://www.wikidata.org/wiki/Q155575
-8489,Sanford Robinson Gifford,American,"Greenfield, New York 1823–1880 New York, New York",1823,1880,"",https://www.wikidata.org/wiki/Q615161
-8334,George Caleb Bingham,American,"American, Augusta County, Virginia 1811–1879 Kansas City, Missouri",1811,1879,"",https://www.wikidata.org/wiki/Q598030
+8487,Martin Schongauer,German,"German, Colmar ca. 1435/50–1491 Breisach",1435,1491,,https://www.wikidata.org/wiki/Q155575
+8489,Sanford Robinson Gifford,American,"Greenfield, New York 1823–1880 New York, New York",1823,1880,,https://www.wikidata.org/wiki/Q615161
+8334,George Caleb Bingham,American,"American, Augusta County, Virginia 1811–1879 Kansas City, Missouri",1811,1879,,https://www.wikidata.org/wiki/Q598030
 9711,,,,,,,
-8509,John Bennett,"",1840–1907,1840,1907,"",https://www.wikidata.org/wiki/Q52161471
-8354,Joachim Beuckelaer,Netherlandish,"Netherlandish, Antwerp 1533–1575 Antwerp",1533,1574,"",https://www.wikidata.org/wiki/Q533314
+8509,John Bennett,,1840–1907,1840,1907,,https://www.wikidata.org/wiki/Q52161471
+8354,Joachim Beuckelaer,Netherlandish,"Netherlandish, Antwerp 1533–1575 Antwerp",1533,1574,,https://www.wikidata.org/wiki/Q533314
 9712,,,,,,,
-8529,Lucy C. Huntington,"",1794–1818,1794,1818,"",""
-8606,Giovanni di Paolo (Giovanni di Paolo di Grazia),Italian,"Italian, Siena 1398–1482 Siena",1398,1482,"",https://www.wikidata.org/wiki/Q946420
-8630,Riza-yi 'Abbasi,"","Iranian, ca. 1565–1635",1540,1660,"",""
+8529,Lucy C. Huntington,,1794–1818,1794,1818,,
+8606,Giovanni di Paolo (Giovanni di Paolo di Grazia),Italian,"Italian, Siena 1398–1482 Siena",1398,1482,,https://www.wikidata.org/wiki/Q946420
+8630,Riza-yi 'Abbasi,,"Iranian, ca. 1565–1635",1540,1660,,
 9821,,,,,,,
-8408,Juan Martínez Montañés,Spanish,"Spanish, Alcalá la Real 1568–1649 Seville",1568,1649,"",https://www.wikidata.org/wiki/Q610928
-8412,John Christian Rauschner,"","German, Frankfurt 1760–after 1812",1760,1812,"",""
-8413,Emanuel Leutze,German American,"American, Schwäbisch Gmünd 1816–1868 Washington, D.C.",1816,1868,"",https://www.wikidata.org/wiki/Q452321
+8408,Juan Martínez Montañés,Spanish,"Spanish, Alcalá la Real 1568–1649 Seville",1568,1649,,https://www.wikidata.org/wiki/Q610928
+8412,John Christian Rauschner,,"German, Frankfurt 1760–after 1812",1760,1812,,
+8413,Emanuel Leutze,German American,"American, Schwäbisch Gmünd 1816–1868 Washington, D.C.",1816,1868,,https://www.wikidata.org/wiki/Q452321
 9822,,,,,,,
-8677,Farrukh ibn `Abd al-Latif,"","","","","",""
-8414,George Inness,American,"American, Newburgh, New York 1825–1894 Bridge of Allan, Scotland",1825,1894,"",https://www.wikidata.org/wiki/Q704868
-8415,Valentin de Boulogne,French,"French, Coulommiers-en-Brie 1591–1632 Rome",1591,1632,"",https://www.wikidata.org/wiki/Q1337275
-8678,Pottier and Stymus Manufacturing Company,"",active ca. 1859–1910,1859,1910,"",https://www.wikidata.org/wiki/Q2106610
-8697,Meissen Manufactory,German,"German, 1710–present",1710,9999,"",https://www.wikidata.org/wiki/Q822407
-8698,Bernardo Daddi,Italian,"Italian, Florence (?) ca. 1290–1348 Florence",1290,1348,"",https://www.wikidata.org/wiki/Q366562
-8720,Simone Martini,Italian,"Italian, Siena, active by 1315–died 1344 Avignon",1315,1344,"",https://www.wikidata.org/wiki/Q221043
-8722,Goya (Francisco de Goya y Lucientes),Spanish,"Spanish, Fuendetodos 1746–1828 Bordeaux",1746,1828,"",https://www.wikidata.org/wiki/Q5432
-8723,Thomas Chambers,"",1808–after 1866,1808,1867,"",https://www.wikidata.org/wiki/Q18508680
-8724,Lorenzo Monaco (Piero di Giovanni),Italian,"Italian, Florence (?) ca. 1370–1425 Florence (?)",1370,1425,"",https://www.wikidata.org/wiki/Q155376
-8725,Edgar Degas,French,"French, Paris 1834–1917 Paris",1834,1917,"",https://www.wikidata.org/wiki/Q46373
-8768,Filippo Negroli,Italian,"Italian, Milan ca. 1510–1579",1485,1605,"",https://www.wikidata.org/wiki/Q4484057
-8777,Muslim Ibn al-Dahhan,"",Egyptian,0975,1025,"",https://www.wikidata.org/wiki/Q97998652
-9135,Auguste Rodin,French,"French, Paris 1840–1917 Meudon",1840,1917,"",https://www.wikidata.org/wiki/Q30755
-9162,Henri-Edmond Cross (Henri-Edmond Delacroix),French,"French, Douai 1856–1910 Saint-Clair",1856,1910,"",https://www.wikidata.org/wiki/Q555224
-8885,François Boucher,French,"French, Paris 1703–1770 Paris",1703,1770,"",https://www.wikidata.org/wiki/Q180932
-8888,Sir Edward Burne-Jones,British,"British, Birmingham 1833–1898 Fulham",1833,1898,"",https://www.wikidata.org/wiki/Q216406
-8890,Paolo Veronese (Paolo Caliari),Italian,"Italian, Verona 1528–1588 Venice",1528,1588,"",https://www.wikidata.org/wiki/Q9440
-8891,Camille Pissarro,French,"French, Charlotte Amalie, Saint Thomas 1830–1903 Paris",1830,1903,"",https://www.wikidata.org/wiki/Q134741
-9224,Edward Greene Malbone,"",1777–1807,1777,1807,"",https://www.wikidata.org/wiki/Q1292928
+8677,Farrukh ibn `Abd al-Latif,,,,,,
+8414,George Inness,American,"American, Newburgh, New York 1825–1894 Bridge of Allan, Scotland",1825,1894,,https://www.wikidata.org/wiki/Q704868
+8415,Valentin de Boulogne,French,"French, Coulommiers-en-Brie 1591–1632 Rome",1591,1632,,https://www.wikidata.org/wiki/Q1337275
+8678,Pottier and Stymus Manufacturing Company,,active ca. 1859–1910,1859,1910,,https://www.wikidata.org/wiki/Q2106610
+8697,Meissen Manufactory,German,"German, 1710–present",1710,9999,,https://www.wikidata.org/wiki/Q822407
+8698,Bernardo Daddi,Italian,"Italian, Florence (?) ca. 1290–1348 Florence",1290,1348,,https://www.wikidata.org/wiki/Q366562
+8720,Simone Martini,Italian,"Italian, Siena, active by 1315–died 1344 Avignon",1315,1344,,https://www.wikidata.org/wiki/Q221043
+8722,Goya (Francisco de Goya y Lucientes),Spanish,"Spanish, Fuendetodos 1746–1828 Bordeaux",1746,1828,,https://www.wikidata.org/wiki/Q5432
+8723,Thomas Chambers,,1808–after 1866,1808,1867,,https://www.wikidata.org/wiki/Q18508680
+8724,Lorenzo Monaco (Piero di Giovanni),Italian,"Italian, Florence (?) ca. 1370–1425 Florence (?)",1370,1425,,https://www.wikidata.org/wiki/Q155376
+8725,Edgar Degas,French,"French, Paris 1834–1917 Paris",1834,1917,,https://www.wikidata.org/wiki/Q46373
+8768,Filippo Negroli,Italian,"Italian, Milan ca. 1510–1579",1485,1605,,https://www.wikidata.org/wiki/Q4484057
+8777,Muslim Ibn al-Dahhan,,Egyptian,975,1025,,https://www.wikidata.org/wiki/Q97998652
+9135,Auguste Rodin,French,"French, Paris 1840–1917 Meudon",1840,1917,,https://www.wikidata.org/wiki/Q30755
+9162,Henri-Edmond Cross (Henri-Edmond Delacroix),French,"French, Douai 1856–1910 Saint-Clair",1856,1910,,https://www.wikidata.org/wiki/Q555224
+8885,François Boucher,French,"French, Paris 1703–1770 Paris",1703,1770,,https://www.wikidata.org/wiki/Q180932
+8888,Sir Edward Burne-Jones,British,"British, Birmingham 1833–1898 Fulham",1833,1898,,https://www.wikidata.org/wiki/Q216406
+8890,Paolo Veronese (Paolo Caliari),Italian,"Italian, Verona 1528–1588 Venice",1528,1588,,https://www.wikidata.org/wiki/Q9440
+8891,Camille Pissarro,French,"French, Charlotte Amalie, Saint Thomas 1830–1903 Paris",1830,1903,,https://www.wikidata.org/wiki/Q134741
+9224,Edward Greene Malbone,,1777–1807,1777,1807,,https://www.wikidata.org/wiki/Q1292928
 9245,,,,,,,
-8436,Jean Auguste Dominique Ingres,French,"French, Montauban 1780–1867 Paris",1780,1867,"",https://www.wikidata.org/wiki/Q23380
+8436,Jean Auguste Dominique Ingres,French,"French, Montauban 1780–1867 Paris",1780,1867,,https://www.wikidata.org/wiki/Q23380
 9718,,,,,,,
 9719,,,,,,,
-8510,Samuel F. B. Morse,American,"American, Charlestown, Massachusetts 1791–1872 New York",1791,1872,"",https://www.wikidata.org/wiki/Q75698
-8515,Gerard ter Borch the Younger,Dutch,"Dutch, Zwolle 1617–1681 Deventer",1617,1681,"",https://www.wikidata.org/wiki/Q346808
-8516,Euphiletos Painter,"","","","","",https://www.wikidata.org/wiki/Q1374087
-8517,Matthias Walbaum,"","German, Kiel 1554–1632 Augsburg",1554,1632,"",https://www.wikidata.org/wiki/Q27882879
-8589,Maulana Azhar,"",died 1475/76,1450,1501,"",""
-8361,Gerard David,Netherlandish,"Netherlandish, Oudewater ca. 1455–1523 Bruges",1455,1523,"",https://www.wikidata.org/wiki/Q333380
+8510,Samuel F. B. Morse,American,"American, Charlestown, Massachusetts 1791–1872 New York",1791,1872,,https://www.wikidata.org/wiki/Q75698
+8515,Gerard ter Borch the Younger,Dutch,"Dutch, Zwolle 1617–1681 Deventer",1617,1681,,https://www.wikidata.org/wiki/Q346808
+8516,Euphiletos Painter,,,,,,https://www.wikidata.org/wiki/Q1374087
+8517,Matthias Walbaum,,"German, Kiel 1554–1632 Augsburg",1554,1632,,https://www.wikidata.org/wiki/Q27882879
+8589,Maulana Azhar,,died 1475/76,1450,1501,,
+8361,Gerard David,Netherlandish,"Netherlandish, Oudewater ca. 1455–1523 Bruges",1455,1523,,https://www.wikidata.org/wiki/Q333380
 9800,,,,,,,
-8608,Amir Khusrau Dihlavi,"","Indian, Patiyali, 1253–1325 Delhi",1228,1350,"",https://www.wikidata.org/wiki/Q207817
-8609,Wu Bin,Chinese,active ca. 1583–1626,1583,1626,"",https://www.wikidata.org/wiki/Q453832
+8608,Amir Khusrau Dihlavi,,"Indian, Patiyali, 1253–1325 Delhi",1228,1350,,https://www.wikidata.org/wiki/Q207817
+8609,Wu Bin,Chinese,active ca. 1583–1626,1583,1626,,https://www.wikidata.org/wiki/Q453832
 9803,,,,,,,
-8632,Joseph Blackburn,"",active 1752–ca. 1778,1715,1815,"",https://www.wikidata.org/wiki/Q3184614
+8632,Joseph Blackburn,,active 1752–ca. 1778,1715,1815,,https://www.wikidata.org/wiki/Q3184614
 9804,,,,,,,
-8409,Taddeo Zuccaro,Italian,"Italian, Sant'Angelo in Vado 1529–1566 Rome",1529,1566,"",https://www.wikidata.org/wiki/Q434058
-8655,Claude Lorrain (Claude Gellée),French,"French, Chamagne 1604/5?–1682 Rome",1604,1682,"",https://www.wikidata.org/wiki/Q214074
-8410,John Vanderlyn,American,"American, Kingston, New York 1775–1852 Kingston, New York",1775,1852,"",https://www.wikidata.org/wiki/Q1661665
-8656,Bernard van Orley,Netherlandish,"Netherlandish, Brussels ca. 1492–1541/42 Brussels",1492,1542,"",https://www.wikidata.org/wiki/Q454678
-8680,Claus de Werve,"","Netherlandish, active in France, ca. 1380–1439, active Burgundy, 1396–ca. 1439",1380,1439,"",https://www.wikidata.org/wiki/Q724570
+8409,Taddeo Zuccaro,Italian,"Italian, Sant'Angelo in Vado 1529–1566 Rome",1529,1566,,https://www.wikidata.org/wiki/Q434058
+8655,Claude Lorrain (Claude Gellée),French,"French, Chamagne 1604/5?–1682 Rome",1604,1682,,https://www.wikidata.org/wiki/Q214074
+8410,John Vanderlyn,American,"American, Kingston, New York 1775–1852 Kingston, New York",1775,1852,,https://www.wikidata.org/wiki/Q1661665
+8656,Bernard van Orley,Netherlandish,"Netherlandish, Brussels ca. 1492–1541/42 Brussels",1492,1542,,https://www.wikidata.org/wiki/Q454678
+8680,Claus de Werve,,"Netherlandish, active in France, ca. 1380–1439, active Burgundy, 1396–ca. 1439",1380,1439,,https://www.wikidata.org/wiki/Q724570
 9823,,,,,,,
-8700,Gong Xian,Chinese,"Chinese, 1619–1689",1619,1689,"",https://www.wikidata.org/wiki/Q3110482
-8791,Guido Reni,Italian,"Italian, Bologna 1575–1642 Bologna",1575,1642,"",https://www.wikidata.org/wiki/Q109061
-8792,Devidasa of Nurpur,"",active ca. 1680–ca. 1720,1670,1730,"",https://www.wikidata.org/wiki/Q77458847
-8793,Giotto di Bondone,Italian,"Italian, Florentine, 1266/76–1337",1266,1337,"",https://www.wikidata.org/wiki/Q7814
-8794,Guercino (Giovanni Francesco Barbieri),Italian,"Italian, Cento 1591–1666 Bologna",1591,1666,"",https://www.wikidata.org/wiki/Q334262
-8813,Théodore Rousseau,French,"French, Paris 1812–1867 Barbizon",1812,1867,"",https://www.wikidata.org/wiki/Q310025
-8814,Jan Steen,Dutch,"Dutch, Leiden 1626–1679 Leiden",1626,1679,"",https://www.wikidata.org/wiki/Q205863
-8815,Johannes Vermeer,Dutch,"Dutch, Delft 1632–1675 Delft",1632,1675,"",https://www.wikidata.org/wiki/Q41264
-8844,Titian (Tiziano Vecellio),Italian,"Italian, Pieve di Cadore ca. 1485/90?–1576 Venice",1485,1576,"",https://www.wikidata.org/wiki/Q47551
-8845,Chitarman,"","Indian, active ca. 1627–70",1627,1670,"",https://www.wikidata.org/wiki/Q54086383
-8886,Jean Siméon Chardin,French,"French, Paris 1699–1779 Paris",1699,1779,"",https://www.wikidata.org/wiki/Q207447
-8894,Fra Filippo Lippi,Italian,"Italian, Florence ca. 1406–1469 Spoleto",1406,1469,"",https://www.wikidata.org/wiki/Q205148
-9213,Dolon Painter,"","","","","",https://www.wikidata.org/wiki/Q29429741
-9266,Lycurgus Painter,"","","","","",https://www.wikidata.org/wiki/Q18511614
-9267,"Italian, Siena","","","","","",""
-8437,John Finlay,"",active ca. 1799–1833,1796,1833,"",""
-8442,Matthew Pratt,American,1734–1805,1734,1805,"",https://www.wikidata.org/wiki/Q6791089
+8700,Gong Xian,Chinese,"Chinese, 1619–1689",1619,1689,,https://www.wikidata.org/wiki/Q3110482
+8791,Guido Reni,Italian,"Italian, Bologna 1575–1642 Bologna",1575,1642,,https://www.wikidata.org/wiki/Q109061
+8792,Devidasa of Nurpur,,active ca. 1680–ca. 1720,1670,1730,,https://www.wikidata.org/wiki/Q77458847
+8793,Giotto di Bondone,Italian,"Italian, Florentine, 1266/76–1337",1266,1337,,https://www.wikidata.org/wiki/Q7814
+8794,Guercino (Giovanni Francesco Barbieri),Italian,"Italian, Cento 1591–1666 Bologna",1591,1666,,https://www.wikidata.org/wiki/Q334262
+8813,Théodore Rousseau,French,"French, Paris 1812–1867 Barbizon",1812,1867,,https://www.wikidata.org/wiki/Q310025
+8814,Jan Steen,Dutch,"Dutch, Leiden 1626–1679 Leiden",1626,1679,,https://www.wikidata.org/wiki/Q205863
+8815,Johannes Vermeer,Dutch,"Dutch, Delft 1632–1675 Delft",1632,1675,,https://www.wikidata.org/wiki/Q41264
+8844,Titian (Tiziano Vecellio),Italian,"Italian, Pieve di Cadore ca. 1485/90?–1576 Venice",1485,1576,,https://www.wikidata.org/wiki/Q47551
+8845,Chitarman,,"Indian, active ca. 1627–70",1627,1670,,https://www.wikidata.org/wiki/Q54086383
+8886,Jean Siméon Chardin,French,"French, Paris 1699–1779 Paris",1699,1779,,https://www.wikidata.org/wiki/Q207447
+8894,Fra Filippo Lippi,Italian,"Italian, Florence ca. 1406–1469 Spoleto",1406,1469,,https://www.wikidata.org/wiki/Q205148
+9213,Dolon Painter,,,,,,https://www.wikidata.org/wiki/Q29429741
+9266,Lycurgus Painter,,,,,,https://www.wikidata.org/wiki/Q18511614
+9267,"Italian, Siena",,,,,,
+8437,John Finlay,,active ca. 1799–1833,1796,1833,,
+8442,Matthew Pratt,American,1734–1805,1734,1805,,https://www.wikidata.org/wiki/Q6791089
 9675,,,,,,,
-8491,Henry Farrer,American,"American, London 1844–1903 New York",1844,1903,"",https://www.wikidata.org/wiki/Q5721138
+8491,Henry Farrer,American,"American, London 1844–1903 New York",1844,1903,,https://www.wikidata.org/wiki/Q5721138
 9676,,,,,,,
-8512,Christian Kintzing,German,"German, Neuwied 1707–1804 Neuwied",1707,1804,"",https://www.wikidata.org/wiki/Q63438826
+8512,Christian Kintzing,German,"German, Neuwied 1707–1804 Neuwied",1707,1804,,https://www.wikidata.org/wiki/Q63438826
 9683,,,,,,,
 9684,,,,,,,
 9685,,,,,,,
-9011,Folwell School,"","","","","",""
-8634,Antoine Watteau,French,"French, Valenciennes 1684–1721 Nogent-sur-Marne",1684,1721,"",https://www.wikidata.org/wiki/Q183221
-9036,André Charles Boulle,French,"French, Paris 1642–1732 Paris",1642,1732,"",https://www.wikidata.org/wiki/Q128964
-8702,Samuel Jennings,"","American, 1789–1834",1789,1834,"",https://www.wikidata.org/wiki/Q22909272
-8703,José Sánchez,"","Mexican, active 1686–95",1686,1695,"",""
-8337,William Merritt Chase,American,"American, Williamsburg, Indiana 1849–1916 New York",1849,1916,"",https://www.wikidata.org/wiki/Q265820
+9011,Folwell School,,,,,,
+8634,Antoine Watteau,French,"French, Valenciennes 1684–1721 Nogent-sur-Marne",1684,1721,,https://www.wikidata.org/wiki/Q183221
+9036,André Charles Boulle,French,"French, Paris 1642–1732 Paris",1642,1732,,https://www.wikidata.org/wiki/Q128964
+8702,Samuel Jennings,,"American, 1789–1834",1789,1834,,https://www.wikidata.org/wiki/Q22909272
+8703,José Sánchez,,"Mexican, active 1686–95",1686,1695,,
+8337,William Merritt Chase,American,"American, Williamsburg, Indiana 1849–1916 New York",1849,1916,,https://www.wikidata.org/wiki/Q265820
 9801,,,,,,,
 10526,,,,,,,
-8363,Gilles Joubert,French,"French, ca. 1689–1775",1689,1775,"",https://www.wikidata.org/wiki/Q3106319
-8364,Franz Xaver Messerschmidt,German,"German, Weisensteig 1736–1783 Pressburg",1736,1783,"",https://www.wikidata.org/wiki/Q701769
-8771,Muhammad ibn Badr al-Din Jajarmi,"","Iranian, active 1340s",1315,1365,"",""
+8363,Gilles Joubert,French,"French, ca. 1689–1775",1689,1775,,https://www.wikidata.org/wiki/Q3106319
+8364,Franz Xaver Messerschmidt,German,"German, Weisensteig 1736–1783 Pressburg",1736,1783,,https://www.wikidata.org/wiki/Q701769
+8771,Muhammad ibn Badr al-Din Jajarmi,,"Iranian, active 1340s",1315,1365,,
 9825,,,,,,,
-8382,William Guy Wall,Irish,"Irish, Dublin 1792–after 1864 Ireland (active America)",1792,1864,"",https://www.wikidata.org/wiki/Q280662
+8382,William Guy Wall,Irish,"Irish, Dublin 1792–after 1864 Ireland (active America)",1792,1864,,https://www.wikidata.org/wiki/Q280662
 9826,,,,,,,
-8817,Paul Gauguin,French,"French, Paris 1848–1903 Atuona, Hiva Oa, Marquesas Islands",1848,1903,"",https://www.wikidata.org/wiki/Q37693
-8825,Wang Hui,Chinese,"Chinese, 1632–1717",1632,1717,"",https://www.wikidata.org/wiki/Q716222
-8383,Henri de Toulouse-Lautrec,French,"French, Albi 1864–1901 Saint-André-du-Bois",1864,1901,"",https://www.wikidata.org/wiki/Q82445
-8384,Peter Paul Rubens,Flemish,"Flemish, Siegen 1577–1640 Antwerp",1577,1640,"",https://www.wikidata.org/wiki/Q5599
-8826,Guo Xi,Chinese,"Chinese, ca. 1000–ca. 1090",1000,1090,"",https://www.wikidata.org/wiki/Q536645
+8817,Paul Gauguin,French,"French, Paris 1848–1903 Atuona, Hiva Oa, Marquesas Islands",1848,1903,,https://www.wikidata.org/wiki/Q37693
+8825,Wang Hui,Chinese,"Chinese, 1632–1717",1632,1717,,https://www.wikidata.org/wiki/Q716222
+8383,Henri de Toulouse-Lautrec,French,"French, Albi 1864–1901 Saint-André-du-Bois",1864,1901,,https://www.wikidata.org/wiki/Q82445
+8384,Peter Paul Rubens,Flemish,"Flemish, Siegen 1577–1640 Antwerp",1577,1640,,https://www.wikidata.org/wiki/Q5599
+8826,Guo Xi,Chinese,"Chinese, ca. 1000–ca. 1090",1000,1090,,https://www.wikidata.org/wiki/Q536645
 10527,,,,,,,
-8417,Clara Peeters,"","Flemish, Mechelen ca. 1587–after 1636 Ghent",1582,1636,Female,https://www.wikidata.org/wiki/Q265398
-8846,Qian Xuan,Chinese,"Chinese, 1239–1301",1239,1301,"",https://www.wikidata.org/wiki/Q951585
-8848,Georges de La Tour,French,"French, Vic-sur-Seille 1593–1653 Lunéville",1593,1653,"",https://www.wikidata.org/wiki/Q203371
-8849,Jean-Baptiste Greuze,French,"French, Tournus 1725–1805 Paris",1725,1805,"",https://www.wikidata.org/wiki/Q347139
-9151,Hirschfeld Workshop,"","","","","",""
-8887,Jules Bastien-Lepage,French,"French, Damvillers 1848–1884 Paris",1848,1884,"",https://www.wikidata.org/wiki/Q541859
-8889,Jean-François Millet,French,"French, Gruchy 1814–1875 Barbizon",1814,1875,"",https://www.wikidata.org/wiki/Q148458
-8900,The Limbourg Brothers,Franco-Netherlandish,"Franco-Netherlandish, active France, by 1399–1416",1399,1416,"",https://www.wikidata.org/wiki/Q217816
-8904,Jean Pucelle,"","French, active Paris, 1319–34",1319,1334,"",https://www.wikidata.org/wiki/Q175888
+8417,Clara Peeters,,"Flemish, Mechelen ca. 1587–after 1636 Ghent",1582,1636,Female,https://www.wikidata.org/wiki/Q265398
+8846,Qian Xuan,Chinese,"Chinese, 1239–1301",1239,1301,,https://www.wikidata.org/wiki/Q951585
+8848,Georges de La Tour,French,"French, Vic-sur-Seille 1593–1653 Lunéville",1593,1653,,https://www.wikidata.org/wiki/Q203371
+8849,Jean-Baptiste Greuze,French,"French, Tournus 1725–1805 Paris",1725,1805,,https://www.wikidata.org/wiki/Q347139
+9151,Hirschfeld Workshop,,,,,,
+8887,Jules Bastien-Lepage,French,"French, Damvillers 1848–1884 Paris",1848,1884,,https://www.wikidata.org/wiki/Q541859
+8889,Jean-François Millet,French,"French, Gruchy 1814–1875 Barbizon",1814,1875,,https://www.wikidata.org/wiki/Q148458
+8900,The Limbourg Brothers,Franco-Netherlandish,"Franco-Netherlandish, active France, by 1399–1416",1399,1416,,https://www.wikidata.org/wiki/Q217816
+8904,Jean Pucelle,,"French, active Paris, 1319–34",1319,1334,,https://www.wikidata.org/wiki/Q175888
 9953,,,,,,,
-9333,Amasis Painter,"","","","","",https://www.wikidata.org/wiki/Q707682
-8438,Abu'l Qasim Firdausi,"","Iranian, Paj ca. 940/41–1020 Tus",0935,1020,"",https://www.wikidata.org/wiki/Q43459
+9333,Amasis Painter,,,,,,https://www.wikidata.org/wiki/Q707682
+8438,Abu'l Qasim Firdausi,,"Iranian, Paj ca. 940/41–1020 Tus",935,1020,,https://www.wikidata.org/wiki/Q43459
 9677,,,,,,,
-9543,Huang Tingjian,Chinese,"Chinese, 1045–1105",1045,1105,"",https://www.wikidata.org/wiki/Q709460
-8492,Henry Inman,"","American, Utica, New York 1801–1846 New York",1801,1846,"",https://www.wikidata.org/wiki/Q3132855
-8493,William Bradford,American,"American, 1823–1892",1823,1892,"",https://www.wikidata.org/wiki/Q8005829
+9543,Huang Tingjian,Chinese,"Chinese, 1045–1105",1045,1105,,https://www.wikidata.org/wiki/Q709460
+8492,Henry Inman,,"American, Utica, New York 1801–1846 New York",1801,1846,,https://www.wikidata.org/wiki/Q3132855
+8493,William Bradford,American,"American, 1823–1892",1823,1892,,https://www.wikidata.org/wiki/Q8005829
 8967,,,,,,,
 8972,,,,,,,
 8973,,,,,,,
-8974,James Hamilton,"American, born Ireland","American (born Ireland), Entrien 1819–1878 San Francisco, California",1819,1878,"",https://www.wikidata.org/wiki/Q20127413
-8564,Vincennes Manufactory,French,"French, ca. 1740–1756",1740,1756,"",https://www.wikidata.org/wiki/Q3287039
-8565,John Britton,"","British, Kington St. Michael, 1771–1857 London (?)",1771,1857,"",https://www.wikidata.org/wiki/Q15462617
+8974,James Hamilton,"American, born Ireland","American (born Ireland), Entrien 1819–1878 San Francisco, California",1819,1878,,https://www.wikidata.org/wiki/Q20127413
+8564,Vincennes Manufactory,French,"French, ca. 1740–1756",1740,1756,,https://www.wikidata.org/wiki/Q3287039
+8565,John Britton,,"British, Kington St. Michael, 1771–1857 London (?)",1771,1857,,https://www.wikidata.org/wiki/Q15462617
 9678,,,,,,,
 9679,,,,,,,
-8613,John William Hill,"American, born England","American (born England), London 1812–1879 West Nyack, New York",1812,1879,"",https://www.wikidata.org/wiki/Q6264191
+8613,John William Hill,"American, born England","American (born England), London 1812–1879 West Nyack, New York",1812,1879,,https://www.wikidata.org/wiki/Q6264191
 9680,,,,,,,
-8636,Joos van Cleve,Netherlandish,"Netherlandish, Cleve ca. 1485–1540/41 Antwerp",1485,1541,"",https://www.wikidata.org/wiki/Q153472
-8640,Frederic Remington,"","American, Canton, New York 1861–1909 Ridgefield, Connecticut",1861,1909,"",https://www.wikidata.org/wiki/Q560787
-8338,Habiballah of Sava,"","Iranian, active ca. 1590–1610",1565,1635,"",""
-8641,"Augostino Aglio, the elder","","Italian, Cremona 1777–1857 London",1777,1857,"",https://www.wikidata.org/wiki/Q395570
+8636,Joos van Cleve,Netherlandish,"Netherlandish, Cleve ca. 1485–1540/41 Antwerp",1485,1541,,https://www.wikidata.org/wiki/Q153472
+8640,Frederic Remington,,"American, Canton, New York 1861–1909 Ridgefield, Connecticut",1861,1909,,https://www.wikidata.org/wiki/Q560787
+8338,Habiballah of Sava,,"Iranian, active ca. 1590–1610",1565,1635,,
+8641,"Augostino Aglio, the elder",,"Italian, Cremona 1777–1857 London",1777,1857,,https://www.wikidata.org/wiki/Q395570
 9681,,,,,,,
-8366,Joseph H. Davis,"",1811–1865,1811,1865,"",https://www.wikidata.org/wiki/Q18155655
-8661,Mount Washington Glass Company,"","New Bedford, Massachusetts 1837-1958",1837,1958,"",""
-8683,Veit Langenbucher,German,1587–1631,1587,1631,"",""
-8705,Unidentified Artist,"","","","","",""
+8366,Joseph H. Davis,,1811–1865,1811,1865,,https://www.wikidata.org/wiki/Q18155655
+8661,Mount Washington Glass Company,,"New Bedford, Massachusetts 1837-1958",1837,1958,,
+8683,Veit Langenbucher,German,1587–1631,1587,1631,,
+8705,Unidentified Artist,,,,,,
 10467,,,,,,,
-8419,Sarah Goodridge,"",1788–1853,1788,1853,Female,https://www.wikidata.org/wiki/Q7422343
-8728,Polyteleia Painter,"","","","","",""
+8419,Sarah Goodridge,,1788–1853,1788,1853,Female,https://www.wikidata.org/wiki/Q7422343
+8728,Polyteleia Painter,,,,,,
 10469,,,,,,,
 10477,,,,,,,
-8772,Eugène Delacroix,French,"French, Charenton-Saint-Maurice 1798–1863 Paris",1798,1863,"",https://www.wikidata.org/wiki/Q33477
-8773,Marcilly,French,"","","","",""
+8772,Eugène Delacroix,French,"French, Charenton-Saint-Maurice 1798–1863 Paris",1798,1863,,https://www.wikidata.org/wiki/Q33477
+8773,Marcilly,French,,,,,
 9806,,,,,,,
-8797,Joseph Mallord William Turner,British,"British, London 1775–1851 London",1775,1851,"",https://www.wikidata.org/wiki/Q159758
-8802,Jacometto (Jacometto Veneziano),Italian,"Italian, active Venice by ca. 1472–died before 1498",1472,1498,"",https://www.wikidata.org/wiki/Q6223610
+8797,Joseph Mallord William Turner,British,"British, London 1775–1851 London",1775,1851,,https://www.wikidata.org/wiki/Q159758
+8802,Jacometto (Jacometto Veneziano),Italian,"Italian, active Venice by ca. 1472–died before 1498",1472,1498,,https://www.wikidata.org/wiki/Q6223610
 10478,,,,,,,
-8818,Filippino Lippi,Italian,"Italian, Prato ca. 1457–1504 Florence",1457,1504,"",https://www.wikidata.org/wiki/Q296265
-8819,Osservanza Master,Italian,"Italian, Siena, active second quarter 15th century",1425,1450,"",https://www.wikidata.org/wiki/Q260114
-8820,Dante Gabriel Rossetti,British,"British, London 1828–1882 Birchington-on-Sea",1828,1882,"",https://www.wikidata.org/wiki/Q186748
+8818,Filippino Lippi,Italian,"Italian, Prato ca. 1457–1504 Florence",1457,1504,,https://www.wikidata.org/wiki/Q296265
+8819,Osservanza Master,Italian,"Italian, Siena, active second quarter 15th century",1425,1450,,https://www.wikidata.org/wiki/Q260114
+8820,Dante Gabriel Rossetti,British,"British, London 1828–1882 Birchington-on-Sea",1828,1882,,https://www.wikidata.org/wiki/Q186748
 9114,,,,,,,
-8850,Charles Le Brun,French,"French, Paris 1619–1690 Paris",1619,1690,"",https://www.wikidata.org/wiki/Q271676
-8851,Vittore Carpaccio,Italian,"Italian, Venice 1460/66?–1525/26 Venice",1460,1526,"",https://www.wikidata.org/wiki/Q5581
-8852,Qu Ding,Chinese,"Chinese, active ca. 1023–ca. 1056",0950,1150,"",https://www.wikidata.org/wiki/Q7268210
+8850,Charles Le Brun,French,"French, Paris 1619–1690 Paris",1619,1690,,https://www.wikidata.org/wiki/Q271676
+8851,Vittore Carpaccio,Italian,"Italian, Venice 1460/66?–1525/26 Venice",1460,1526,,https://www.wikidata.org/wiki/Q5581
+8852,Qu Ding,Chinese,"Chinese, active ca. 1023–ca. 1056",950,1150,,https://www.wikidata.org/wiki/Q7268210
 9828,,,,,,,
-8892,Piero di Cosimo (Piero di Lorenzo di Piero d'Antonio),Italian,"Italian, Florence 1462–1522 Florence",1462,1522,"",https://www.wikidata.org/wiki/Q280851
+8892,Piero di Cosimo (Piero di Lorenzo di Piero d'Antonio),Italian,"Italian, Florence 1462–1522 Florence",1462,1522,,https://www.wikidata.org/wiki/Q280851
 10554,,,,,,,
-8439,Edward Hicks,American,"American, Langhorne, Pennsylvania 1780–1849 Newton, Pennsylvania",1780,1849,"",https://www.wikidata.org/wiki/Q2723190
-8440,Petrus Christus,Netherlandish,"Netherlandish, Baarle-Hertog (Baerle-Duc), active by 1444–died 1475/76 Bruges",1444,1476,"",https://www.wikidata.org/wiki/Q312616
+8439,Edward Hicks,American,"American, Langhorne, Pennsylvania 1780–1849 Newton, Pennsylvania",1780,1849,,https://www.wikidata.org/wiki/Q2723190
+8440,Petrus Christus,Netherlandish,"Netherlandish, Baarle-Hertog (Baerle-Duc), active by 1444–died 1475/76 Bruges",1444,1476,,https://www.wikidata.org/wiki/Q312616
 10435,,,,,,,
 8968,,,,,,,
 8970,,,,,,,
-8341,Nizami,"",Ganja 1141–1209 Ganja,1141,1209,"",""
-8342,Thomas Anshutz,American,"American, Newport, Kentucky 1851–1912 Fort Washington, Pennsylvania",1851,1912,"",https://www.wikidata.org/wiki/Q2757568
-8343,Pieter de Hooch,Dutch,"Dutch, Rotterdam 1629–1684 Amsterdam",1629,1684,"",https://www.wikidata.org/wiki/Q314889
-9560,Girolamo da Treviso,Italian,"Italian, Treviso ca. 1498–1544 Boulogne-sur-Mer",1498,1544,"",https://www.wikidata.org/wiki/Q18608022
-8567,Francesco di Giorgio Martini,Italian,"Italian, Siena 1439–1501 Siena",1439,1501,"",https://www.wikidata.org/wiki/Q434425
-9620,Umberto Boccioni,Italian,"Italian, Reggio 1882–1916 Sorte",1882,1916,"",https://www.wikidata.org/wiki/Q152797
-8421,John White Alexander,"","American, Allegheny, Pennsylvania 1856–1915 New York",1856,1915,"",https://www.wikidata.org/wiki/Q1702146
-8637,Hans of Landshut,German,"German, Landshut, active late 15th century",1400,1550,"",https://www.wikidata.org/wiki/Q56738109
+8341,Nizami,,Ganja 1141–1209 Ganja,1141,1209,,
+8342,Thomas Anshutz,American,"American, Newport, Kentucky 1851–1912 Fort Washington, Pennsylvania",1851,1912,,https://www.wikidata.org/wiki/Q2757568
+8343,Pieter de Hooch,Dutch,"Dutch, Rotterdam 1629–1684 Amsterdam",1629,1684,,https://www.wikidata.org/wiki/Q314889
+9560,Girolamo da Treviso,Italian,"Italian, Treviso ca. 1498–1544 Boulogne-sur-Mer",1498,1544,,https://www.wikidata.org/wiki/Q18608022
+8567,Francesco di Giorgio Martini,Italian,"Italian, Siena 1439–1501 Siena",1439,1501,,https://www.wikidata.org/wiki/Q434425
+9620,Umberto Boccioni,Italian,"Italian, Reggio 1882–1916 Sorte",1882,1916,,https://www.wikidata.org/wiki/Q152797
+8421,John White Alexander,,"American, Allegheny, Pennsylvania 1856–1915 New York",1856,1915,,https://www.wikidata.org/wiki/Q1702146
+8637,Hans of Landshut,German,"German, Landshut, active late 15th century",1400,1550,,https://www.wikidata.org/wiki/Q56738109
 10509,,,,,,,
 10530,,,,,,,
-8706,Gustave Le Gray,French,"French, 1820–1884",1820,1884,"",https://www.wikidata.org/wiki/Q982549
+8706,Gustave Le Gray,French,"French, 1820–1884",1820,1884,,https://www.wikidata.org/wiki/Q982549
 10531,,,,,,,
-8822,Joachim Patinir,Netherlandish,"Netherlandish, Dinant or Bouvignes, active by 1515–died 1524 Antwerp",1515,1524,"",https://www.wikidata.org/wiki/Q442491
-8823,Jean-Léon Gérôme,French,"French, Vesoul 1824–1904 Paris",1824,1904,"",https://www.wikidata.org/wiki/Q212499
-8869,Jusepe de Ribera (called Lo Spagnoletto),Spanish,"Spanish, Játiva 1591–1652 Naples",1591,1652,"",https://www.wikidata.org/wiki/Q297838
-8872,Henri Rousseau (le Douanier),French,"French, Laval 1844–1910 Paris",1844,1910,"",https://www.wikidata.org/wiki/Q156386
-8873,Pierre Puvis de Chavannes,French,"French, Lyons 1824–1898 Paris",1824,1898,"",https://www.wikidata.org/wiki/Q216873
-10887,Medici Porcelain Manufactory,"","Italian, Florence, ca. 1575–ca. 1587",1570,1592,"",""
-8901,Rogier van der Weyden,Netherlandish,"Netherlandish, Tournai ca. 1399–1464 Brussels",1399,1464,"",https://www.wikidata.org/wiki/Q68631
+8822,Joachim Patinir,Netherlandish,"Netherlandish, Dinant or Bouvignes, active by 1515–died 1524 Antwerp",1515,1524,,https://www.wikidata.org/wiki/Q442491
+8823,Jean-Léon Gérôme,French,"French, Vesoul 1824–1904 Paris",1824,1904,,https://www.wikidata.org/wiki/Q212499
+8869,Jusepe de Ribera (called Lo Spagnoletto),Spanish,"Spanish, Játiva 1591–1652 Naples",1591,1652,,https://www.wikidata.org/wiki/Q297838
+8872,Henri Rousseau (le Douanier),French,"French, Laval 1844–1910 Paris",1844,1910,,https://www.wikidata.org/wiki/Q156386
+8873,Pierre Puvis de Chavannes,French,"French, Lyons 1824–1898 Paris",1824,1898,,https://www.wikidata.org/wiki/Q216873
+10887,Medici Porcelain Manufactory,,"Italian, Florence, ca. 1575–ca. 1587",1570,1592,,
+8901,Rogier van der Weyden,Netherlandish,"Netherlandish, Tournai ca. 1399–1464 Brussels",1399,1464,,https://www.wikidata.org/wiki/Q68631
 8902,Rosa Bonheur,French,"French, Bordeaux 1822–1899 Thomery",1822,1899,Female,https://www.wikidata.org/wiki/Q241732
-8922,Jan van Eyck,Netherlandish,"Netherlandish, Maaseik ca. 1390–1441 Bruges",1390,1441,"",https://www.wikidata.org/wiki/Q102272
-9343,David II Pfau,"",1644–1702,1644,1702,"",""
-9351,Andokides,"","","","","",https://www.wikidata.org/wiki/Q391671
+8922,Jan van Eyck,Netherlandish,"Netherlandish, Maaseik ca. 1390–1441 Bruges",1390,1441,,https://www.wikidata.org/wiki/Q102272
+9343,David II Pfau,,1644–1702,1644,1702,,
+9351,Andokides,,,,,,https://www.wikidata.org/wiki/Q391671
 10416,,,,,,,
-8468,Louis-Rémy Robert,French,"French, 1810–1882",1810,1882,"",https://www.wikidata.org/wiki/Q3260874
-8469,Martin Johnson Heade,American,1819–1904,1819,1904,"",https://www.wikidata.org/wiki/Q3123472
+8468,Louis-Rémy Robert,French,"French, 1810–1882",1810,1882,,https://www.wikidata.org/wiki/Q3260874
+8469,Martin Johnson Heade,American,1819–1904,1819,1904,,https://www.wikidata.org/wiki/Q3123472
 10417,,,,,,,
 10418,,,,,,,
-8369,Jean-François Oeben,"","French, born Germany, Heisenberg 1721–1763 Paris",1721,1763,"",https://www.wikidata.org/wiki/Q70441
+8369,Jean-François Oeben,,"French, born Germany, Heisenberg 1721–1763 Paris",1721,1763,,https://www.wikidata.org/wiki/Q70441
 10470,,,,,,,
-8423,Ammi Phillips,American,1788–1865,1788,1865,"",https://www.wikidata.org/wiki/Q2843640
+8423,Ammi Phillips,American,1788–1865,1788,1865,,https://www.wikidata.org/wiki/Q2843640
 10471,,,,,,,
 10472,,,,,,,
 9863,,,,,,,
 10473,,,,,,,
-8664,Lorenz Hauslaib,German,"German, Nuremberg 1568–1625 Regensburg",1568,1625,"",""
-8665,Pietro Lorenzetti,Italian,"Italian, active Siena 1320–44",1320,1344,"",https://www.wikidata.org/wiki/Q309635
+8664,Lorenz Hauslaib,German,"German, Nuremberg 1568–1625 Regensburg",1568,1625,,
+8665,Pietro Lorenzetti,Italian,"Italian, active Siena 1320–44",1320,1344,,https://www.wikidata.org/wiki/Q309635
 10474,,,,,,,
-8686,Charles-Honoré Lannuier,"",France 1779–1819 New York,1779,1819,"",https://www.wikidata.org/wiki/Q5074741
+8686,Charles-Honoré Lannuier,,France 1779–1819 New York,1779,1819,,https://www.wikidata.org/wiki/Q5074741
 10475,,,,,,,
-8730,Juan Francisco de Aguilera,"","active Mexico, first third 18th century","","","",""
-8754,Bartolo di Fredi,Italian,"Italian, active by 1353–died 1410 Siena",1353,1410,"",https://www.wikidata.org/wiki/Q177415
-8755,Lucas Cranach the Elder,German,"German, Kronach 1472–1553 Weimar",1472,1553,"",https://www.wikidata.org/wiki/Q191748
+8730,Juan Francisco de Aguilera,,"active Mexico, first third 18th century",,,,
+8754,Bartolo di Fredi,Italian,"Italian, active by 1353–died 1410 Siena",1353,1410,,https://www.wikidata.org/wiki/Q177415
+8755,Lucas Cranach the Elder,German,"German, Kronach 1472–1553 Weimar",1472,1553,,https://www.wikidata.org/wiki/Q191748
 10533,,,,,,,
 10534,,,,,,,
-8828,Emperor Huizong,Chinese,"Chinese, 1082–1135; r. 1100–25",1082,1135,"",https://www.wikidata.org/wiki/Q7486
-8855,Bronzino (Agnolo di Cosimo di Mariano),Italian,"Italian, Monticelli 1503–1572 Florence",1503,1572,"",https://www.wikidata.org/wiki/Q7803
+8828,Emperor Huizong,Chinese,"Chinese, 1082–1135; r. 1100–25",1082,1135,,https://www.wikidata.org/wiki/Q7486
+8855,Bronzino (Agnolo di Cosimo di Mariano),Italian,"Italian, Monticelli 1503–1572 Florence",1503,1572,,https://www.wikidata.org/wiki/Q7803
 8857,Adélaïde Labille-Guiard,French,"French, Paris 1749–1803 Paris",1749,1803,Female,https://www.wikidata.org/wiki/Q235647
-9180,Penthesilea Painter,"","","","","",https://www.wikidata.org/wiki/Q71976
-8870,Giovanni di ser Giovanni Guidi (called Scheggia),Italian,"Italian, San Giovanni Valdarno 1406–1486 Florence",1406,1486,"",https://www.wikidata.org/wiki/Q2738832
-8905,Sir Thomas Lawrence,British,"British, Bristol 1769–1830 London",1769,1830,"",https://www.wikidata.org/wiki/Q312096
-8906,Pieter Bruegel the Elder,Netherlandish,"Netherlandish, Breda (?) ca. 1525–1569 Brussels",1525,1569,"",https://www.wikidata.org/wiki/Q43270
-9299,Francesco Guardi,Italian,"Italian, Venice 1712–1793 Venice",1712,1793,"",https://www.wikidata.org/wiki/Q318769
-8471,John Henry Twachtman,American,"American, Cincinnati, Ohio 1853–1902 Gloucester, Massachusetts",1853,1902,"",https://www.wikidata.org/wiki/Q1342683
+9180,Penthesilea Painter,,,,,,https://www.wikidata.org/wiki/Q71976
+8870,Giovanni di ser Giovanni Guidi (called Scheggia),Italian,"Italian, San Giovanni Valdarno 1406–1486 Florence",1406,1486,,https://www.wikidata.org/wiki/Q2738832
+8905,Sir Thomas Lawrence,British,"British, Bristol 1769–1830 London",1769,1830,,https://www.wikidata.org/wiki/Q312096
+8906,Pieter Bruegel the Elder,Netherlandish,"Netherlandish, Breda (?) ca. 1525–1569 Brussels",1525,1569,,https://www.wikidata.org/wiki/Q43270
+9299,Francesco Guardi,Italian,"Italian, Venice 1712–1793 Venice",1712,1793,,https://www.wikidata.org/wiki/Q318769
+8471,John Henry Twachtman,American,"American, Cincinnati, Ohio 1853–1902 Gloucester, Massachusetts",1853,1902,,https://www.wikidata.org/wiki/Q1342683
 9725,,,,,,,
-8499,Eretria Painter,"","","","","",https://www.wikidata.org/wiki/Q386045
+8499,Eretria Painter,,,,,,https://www.wikidata.org/wiki/Q386045
 8975,,,,,,,
 10438,,,,,,,
-8537,Charles Balthazar Julien Févret de Saint-Mémin,French,1770–1852,1770,1852,"",https://www.wikidata.org/wiki/Q2958470
-8297,Rembrandt (Rembrandt van Rijn),Dutch,"Dutch, Leiden 1606–1669 Amsterdam",1606,1669,"",https://www.wikidata.org/wiki/Q5598
-8298,Bhawani Das,"",Indian,"","","",https://www.wikidata.org/wiki/Q32786180
-8299,Ferdinand Hodler,Swiss,"Swiss, Bern 1853–1918 Geneva",1853,1918,"",https://www.wikidata.org/wiki/Q214564
-8300,Thomas Eakins,American,"American, Philadelphia, Pennsylvania 1844–1916 Philadelphia, Pennsylvania",1844,1916,"",https://www.wikidata.org/wiki/Q214905
-8301,Rembrandt Peale,American,"American, Bucks County, Pennsylvania 1778–1860 Philadelphia, Pennsylvania",1778,1860,"",https://www.wikidata.org/wiki/Q375926
-8302,El Greco (Domenikos Theotokopoulos),Greek,"Greek, Iráklion (Candia) 1541–1614 Toledo",1540,1614,"",https://www.wikidata.org/wiki/Q301
-8303,William Trost Richards,American,"American, Philadelphia, Pennsylvania 1833–1905 Newport, Rhode Island",1833,1905,"",https://www.wikidata.org/wiki/Q1985982
-8304,Maestro Giorgio Andreoli,Italian,"Italian (Gubbio), active first half of 16th century",1500,1550,"",https://www.wikidata.org/wiki/Q1346997
-8569,Rufus Hathaway,"",1770–1822,1770,1822,"",https://www.wikidata.org/wiki/Q3452796
-8576,Jasper Francis Cropsey,American,"American, Rossville, New York 1823–1900 Hastings-on-Hudson, New York",1823,1900,"",https://www.wikidata.org/wiki/Q1451318
-8305,Thomas Cole,American,"American, Lancashire 1801–1848 Catskill, New York",1801,1848,"",https://www.wikidata.org/wiki/Q334001
-8577,David Teniers the Younger,"","Flemish, Antwerp 1610–1690 Brussels",1610,1690,"",https://www.wikidata.org/wiki/Q335022
-8578,Juan Rodríguez Juárez,Mexican,"Mexican, 1675–1728",1675,1728,"",https://www.wikidata.org/wiki/Q5363977
-8579,William A. Harper,"","American (born Canada), Cayuga 1873–1910 Mexico City",1873,1910,"",https://www.wikidata.org/wiki/Q29961432
-8306,Asher Brown Durand,American,"American, Jefferson, New Jersey 1796–1886 Maplewood, New Jersey",1796,1886,"",https://www.wikidata.org/wiki/Q391608
-8307,John Frederick Kensett,American,"American, Cheshire, Connecticut 1816–1872 New York",1816,1872,"",https://www.wikidata.org/wiki/Q982284
-8308,Lawrence Kilburn (or Kilbrunn),British,1720–1775,1720,1775,"",https://www.wikidata.org/wiki/Q19874871
-8580,Lorenzo Lotto,Italian,"Italian, Venice ca. 1480–1556 Loreto",1475,1556,"",https://www.wikidata.org/wiki/Q310973
+8537,Charles Balthazar Julien Févret de Saint-Mémin,French,1770–1852,1770,1852,,https://www.wikidata.org/wiki/Q2958470
+8297,Rembrandt (Rembrandt van Rijn),Dutch,"Dutch, Leiden 1606–1669 Amsterdam",1606,1669,,https://www.wikidata.org/wiki/Q5598
+8298,Bhawani Das,,Indian,,,,https://www.wikidata.org/wiki/Q32786180
+8299,Ferdinand Hodler,Swiss,"Swiss, Bern 1853–1918 Geneva",1853,1918,,https://www.wikidata.org/wiki/Q214564
+8300,Thomas Eakins,American,"American, Philadelphia, Pennsylvania 1844–1916 Philadelphia, Pennsylvania",1844,1916,,https://www.wikidata.org/wiki/Q214905
+8301,Rembrandt Peale,American,"American, Bucks County, Pennsylvania 1778–1860 Philadelphia, Pennsylvania",1778,1860,,https://www.wikidata.org/wiki/Q375926
+8302,El Greco (Domenikos Theotokopoulos),Greek,"Greek, Iráklion (Candia) 1541–1614 Toledo",1540,1614,,https://www.wikidata.org/wiki/Q301
+8303,William Trost Richards,American,"American, Philadelphia, Pennsylvania 1833–1905 Newport, Rhode Island",1833,1905,,https://www.wikidata.org/wiki/Q1985982
+8304,Maestro Giorgio Andreoli,Italian,"Italian (Gubbio), active first half of 16th century",1500,1550,,https://www.wikidata.org/wiki/Q1346997
+8569,Rufus Hathaway,,1770–1822,1770,1822,,https://www.wikidata.org/wiki/Q3452796
+8576,Jasper Francis Cropsey,American,"American, Rossville, New York 1823–1900 Hastings-on-Hudson, New York",1823,1900,,https://www.wikidata.org/wiki/Q1451318
+8305,Thomas Cole,American,"American, Lancashire 1801–1848 Catskill, New York",1801,1848,,https://www.wikidata.org/wiki/Q334001
+8577,David Teniers the Younger,,"Flemish, Antwerp 1610–1690 Brussels",1610,1690,,https://www.wikidata.org/wiki/Q335022
+8578,Juan Rodríguez Juárez,Mexican,"Mexican, 1675–1728",1675,1728,,https://www.wikidata.org/wiki/Q5363977
+8579,William A. Harper,,"American (born Canada), Cayuga 1873–1910 Mexico City",1873,1910,,https://www.wikidata.org/wiki/Q29961432
+8306,Asher Brown Durand,American,"American, Jefferson, New Jersey 1796–1886 Maplewood, New Jersey",1796,1886,,https://www.wikidata.org/wiki/Q391608
+8307,John Frederick Kensett,American,"American, Cheshire, Connecticut 1816–1872 New York",1816,1872,,https://www.wikidata.org/wiki/Q982284
+8308,Lawrence Kilburn (or Kilbrunn),British,1720–1775,1720,1775,,https://www.wikidata.org/wiki/Q19874871
+8580,Lorenzo Lotto,Italian,"Italian, Venice ca. 1480–1556 Loreto",1475,1556,,https://www.wikidata.org/wiki/Q310973
 9787,,,,,,,
-8617,Hercules Segers,Dutch,"Dutch, ca. 1590–ca. 1638",1590,1638,"",https://www.wikidata.org/wiki/Q931846
-8642,Vincent van Gogh,Dutch,"Dutch, Zundert 1853–1890 Auvers-sur-Oise",1853,1890,"",https://www.wikidata.org/wiki/Q5582
-8388,Reinhold Vasters,German,"German, Erkelenz 1827–1909 Aachen",1827,1909,"",https://www.wikidata.org/wiki/Q2141574
-8389,Kamal Muhammad,"",active 1680s,1655,1705,"",""
-8390,Master of the Martyrdom of St. Sebastian,Austrian,Austrian,"","","",""
+8617,Hercules Segers,Dutch,"Dutch, ca. 1590–ca. 1638",1590,1638,,https://www.wikidata.org/wiki/Q931846
+8642,Vincent van Gogh,Dutch,"Dutch, Zundert 1853–1890 Auvers-sur-Oise",1853,1890,,https://www.wikidata.org/wiki/Q5582
+8388,Reinhold Vasters,German,"German, Erkelenz 1827–1909 Aachen",1827,1909,,https://www.wikidata.org/wiki/Q2141574
+8389,Kamal Muhammad,,active 1680s,1655,1705,,
+8390,Master of the Martyrdom of St. Sebastian,Austrian,Austrian,,,,
 10536,,,,,,,
-8424,William Jay Bolton,"","British, 1816–1884",1816,1884,"",""
-8667,Johann Michael Bauer,German (born Westheim),"German, Westheim 1710–1779 Bamberg",1710,1779,"",""
-8688,Robert Nunns,"","British, (active United States) 1791–1869",1791,1869,"",""
-8710,Érard,"","French, ca. 1780–1959",1780,1959,"",""
-8711,Master of the Jaunpur Kalpasutra,Indian,Indian,"","","",""
-8733,Giovanni Baronzio,"","Italian, active in Romagna and the Marches, second quarter 14th century",1325,1349,"",https://www.wikidata.org/wiki/Q535607
-8830,Francisco de Zurbarán,Spanish,"Spanish, Fuente de Cantos 1598–1664 Madrid",1598,1664,"",https://www.wikidata.org/wiki/Q209615
-8832,Frans Hals,Dutch,"Dutch, Antwerp 1582/83–1666 Haarlem",1582,1666,"",https://www.wikidata.org/wiki/Q167654
-8833,Michelangelo Buonarroti,Italian,"Italian, Caprese 1475–1564 Rome",1475,1564,"",https://www.wikidata.org/wiki/Q5592
-8875,Hendrick ter Brugghen,Dutch,"Dutch, The Hague? 1588–1629 Utrecht",1588,1629,"",https://www.wikidata.org/wiki/Q437233
-8876,Annibale Carracci,Italian,"Italian, Bologna 1560–1609 Rome",1560,1609,"",https://www.wikidata.org/wiki/Q7824
-8877,Master of the Codex of Saint George,Italian,"Italian, active Florence, ca. 1315–35",1310,1335,"",https://www.wikidata.org/wiki/Q1918541
-9194,Lydos,"","","","","",https://www.wikidata.org/wiki/Q946281
+8424,William Jay Bolton,,"British, 1816–1884",1816,1884,,
+8667,Johann Michael Bauer,German (born Westheim),"German, Westheim 1710–1779 Bamberg",1710,1779,,
+8688,Robert Nunns,,"British, (active United States) 1791–1869",1791,1869,,
+8710,Érard,,"French, ca. 1780–1959",1780,1959,,
+8711,Master of the Jaunpur Kalpasutra,Indian,Indian,,,,
+8733,Giovanni Baronzio,,"Italian, active in Romagna and the Marches, second quarter 14th century",1325,1349,,https://www.wikidata.org/wiki/Q535607
+8830,Francisco de Zurbarán,Spanish,"Spanish, Fuente de Cantos 1598–1664 Madrid",1598,1664,,https://www.wikidata.org/wiki/Q209615
+8832,Frans Hals,Dutch,"Dutch, Antwerp 1582/83–1666 Haarlem",1582,1666,,https://www.wikidata.org/wiki/Q167654
+8833,Michelangelo Buonarroti,Italian,"Italian, Caprese 1475–1564 Rome",1475,1564,,https://www.wikidata.org/wiki/Q5592
+8875,Hendrick ter Brugghen,Dutch,"Dutch, The Hague? 1588–1629 Utrecht",1588,1629,,https://www.wikidata.org/wiki/Q437233
+8876,Annibale Carracci,Italian,"Italian, Bologna 1560–1609 Rome",1560,1609,,https://www.wikidata.org/wiki/Q7824
+8877,Master of the Codex of Saint George,Italian,"Italian, active Florence, ca. 1315–35",1310,1335,,https://www.wikidata.org/wiki/Q1918541
+9194,Lydos,,,,,,https://www.wikidata.org/wiki/Q946281
 9690,,,,,,,
 10422,,,,,,,
-9548,Giovanni Benedetto Castiglione (Il Grechetto),Italian,"Italian, Genoa 1609–1664 Mantua",1609,1664,"",https://www.wikidata.org/wiki/Q40823
+9548,Giovanni Benedetto Castiglione (Il Grechetto),Italian,"Italian, Genoa 1609–1664 Mantua",1609,1664,,https://www.wikidata.org/wiki/Q40823
 9728,,,,,,,
-9401,"Pacetti, Vincenzo","","","","","",https://www.wikidata.org/wiki/Q7932250
+9401,"Pacetti, Vincenzo",,,,,,https://www.wikidata.org/wiki/Q7932250
 9729,,,,,,,
 9730,,,,,,,
-9406,`Abd al-Rahman al-Sufi,Persian,"Iranian, Rey 903–986 Shiraz",0903,0986,"",""
+9406,`Abd al-Rahman al-Sufi,Persian,"Iranian, Rey 903–986 Shiraz",903,986,,
 9789,,,,,,,
-9411,Abbondio Stazio,Italian,"Swiss (active Italy), Mossagno, near Lugano 1663–1745 Venice",1675,1757,"",https://www.wikidata.org/wiki/Q18190942
-9431,Léonard Limosin,"",ca. 1505–1575/1577,1505,1577,"",https://www.wikidata.org/wiki/Q1879480
-9435,Jacob Halder,British,"British, master armorer at the royal workshops at Greenwich, documented in England 1558–1608",1558,1608,"",https://www.wikidata.org/wiki/Q28604366
-9459,Nearchos,"","","","","",https://www.wikidata.org/wiki/Q330410
+9411,Abbondio Stazio,Italian,"Swiss (active Italy), Mossagno, near Lugano 1663–1745 Venice",1675,1757,,https://www.wikidata.org/wiki/Q18190942
+9431,Léonard Limosin,,ca. 1505–1575/1577,1505,1577,,https://www.wikidata.org/wiki/Q1879480
+9435,Jacob Halder,British,"British, master armorer at the royal workshops at Greenwich, documented in England 1558–1608",1558,1608,,https://www.wikidata.org/wiki/Q28604366
+9459,Nearchos,,,,,,https://www.wikidata.org/wiki/Q330410
 10424,,,,,,,
 9732,,,,,,,
 9733,,,,,,,
-9470,Roger Fenton,British,"British, 1819–1869",1819,1819,"",https://www.wikidata.org/wiki/Q345666
+9470,Roger Fenton,British,"British, 1819–1869",1819,1819,,https://www.wikidata.org/wiki/Q345666
 9734,,,,,,,
-9472,Ogata Kōrin,Japanese,"Japanese, 1658–1716",1658,1716,"",https://www.wikidata.org/wiki/Q952938
+9472,Ogata Kōrin,Japanese,"Japanese, 1658–1716",1658,1716,,https://www.wikidata.org/wiki/Q952938
 9735,,,,,,,
 10442,,,,,,,
-9476,Stefano da Verona (Stefano di Giovanni d'Arbosio di Francia),Italian,"Italian, Paris or Pavia ca. 1374/75–after 1438 Verona",1374,1438,"",https://www.wikidata.org/wiki/Q724508
+9476,Stefano da Verona (Stefano di Giovanni d'Arbosio di Francia),Italian,"Italian, Paris or Pavia ca. 1374/75–after 1438 Verona",1374,1438,,https://www.wikidata.org/wiki/Q724508
 10443,,,,,,,
 9813,,,,,,,
 9816,,,,,,,
@@ -499,9 +499,9 @@ artist_id,display_name,nationality,display_bio,birth_year,death_year,gender,arti
 9837,,,,,,,
 10539,,,,,,,
 10540,,,,,,,
-9488,Master Heinrich of Constance,"","German, active in Constance, ca. 1300",1300,1300,"",""
-9493,Ja`far ibn Muhammad ibn `Ali,"","","","","",""
-9497,Tilman Riemenschneider,German,"German, 1460–1531",1460,1531,"",https://www.wikidata.org/wiki/Q44723
-9504,David Roentgen,German,"German, Herrnhaag 1743–1807 Wiesbaden, master 1780",1743,1807,"",https://www.wikidata.org/wiki/Q77730
-9505,Georges Jacob,French,"French, Cheny 1739–1814 Paris",1739,1814,"",https://www.wikidata.org/wiki/Q503567
-9513,Hatifi,"","Iranian, active Istanbul, died 1521",1441,1521,"",""
+9488,Master Heinrich of Constance,,"German, active in Constance, ca. 1300",1300,1300,,
+9493,Ja`far ibn Muhammad ibn `Ali,,,,,,
+9497,Tilman Riemenschneider,German,"German, 1460–1531",1460,1531,,https://www.wikidata.org/wiki/Q44723
+9504,David Roentgen,German,"German, Herrnhaag 1743–1807 Wiesbaden, master 1780",1743,1807,,https://www.wikidata.org/wiki/Q77730
+9505,Georges Jacob,French,"French, Cheny 1739–1814 Paris",1739,1814,,https://www.wikidata.org/wiki/Q503567
+9513,Hatifi,,"Iranian, active Istanbul, died 1521",1441,1521,,
