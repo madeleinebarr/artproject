@@ -19,21 +19,23 @@ function Piece(props) {
     
     return (
         <div className="piece" key={props.objectid}>
-                {/* <Link to={`piece/${props.objectid}`} target="_blank"> */}
                 <Link to={{
-                    pathname: `piece/${props.objectid}`,
-                    // state: {
-                    //     objectid: props.objectid
-                    // }
-                }} target="_blank" rel='noopener noreferrer'
-                onClick={GoToPiece}>
-                    {/* <p>test</p> */}
+                        pathname: `piece/${props.objectid}`,
+                        }} 
+                        target="_blank" 
+                        rel='noopener noreferrer'
+                        onClick={GoToPiece}>
+                    
                     <img className="piece-image" src={props.primary_image_small} alt={props.title}></img>
 
-                    </Link>
+                    
+
+                <div className="overlay">
                     <p className="piece-title">{props.title}</p>
                     <p className="piece-artist">{props.artist_display_name}</p>
                     <p className="piece-date">{props.object_end_date}</p>
+                    </div>
+                    </Link>
         </div> 
     )
 }

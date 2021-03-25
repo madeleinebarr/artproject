@@ -13,27 +13,87 @@ code {
     monospace;
 }
 
+/*nav styling*/
 .navBar {
-  /* background-color: #ffce23; */
   background-color: #ffdf6f;
-  height: 60px;
-  /* color: white; */
-  /* margin-top: -12px; */
-  /* position: absolute; */
+  height: 80px;
   top: 0;
 }
 
 .navBarMetLogo {
-  width: 40px;
-  margin-left: 10px;
-  margin-top: 10px;
-  /* padding-top: 10px;
-  padding-bottom: 10px; */
+  width: 50px;
+  margin-left: 15px;
+  margin-top: 15px;
 }
 
-/* .navBar p {
-  margin-top: 0px;
-  font-family: Georgia, "Times New Roman", Times, serif;
+/*filter form styling*/
+
+.filter-forms {
+  background-color: #f1f1f1;
+  /* border: 1px solid white; */
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  /* grid-template-columns: repeat(3, 30%); */
+  justify-content: space-between;
+
+  margin-bottom: 30px;
+}
+
+.filter-forms select {
+  background-color: #f1f1f1;
+  color: black;
+  border: 1px solid white;
+  /* border: none; */
+  font-size: 12px;
+  font-family: Arial, Helvetica, sans-serif;
+  height: 30px;
+  padding-left: 10px;
+  /* padding-right: 10px; */
+  /* margin-right: 10px; */
+}
+
+.filter-forms select:focus {
+  outline: none;
+}
+
+/*piece picture styling*/
+
+/* .piece {
+  position: relative;
+  width: 50%;
 } */
 
-/* style={{height: '50px', marginTop: '-12px', color: 'white'}} */
+* {
+  box-sizing: border-box;
+}
+
+.piece {
+  position: relative;
+  width: 50%;
+  max-width: 600px;
+}
+
+.piece-image {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+.overlay {
+  position: absolute;
+  bottom: 0;
+  background: rgb(0, 0, 0);
+  background: rgba(0, 0, 0, 0.5); /* Black see-through */
+  color: #f1f1f1;
+  width: 100%;
+  transition: 0.5s ease;
+  opacity: 0;
+  color: white;
+  font-size: 20px;
+  padding: 20px;
+  text-align: center;
+}
+
+.piece:hover .overlay {
+  opacity: 1;
+}
