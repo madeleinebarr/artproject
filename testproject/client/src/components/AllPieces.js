@@ -92,7 +92,7 @@ const AllPieces = (props) => {
         return (
             <Fragment>
                 <Masonry
-                breakpointCols={3}
+                breakpointCols={5}
                 className="my-masonry-grid"
                 columnClassName="my-masonry-grid_column">
                 {pieces.map(piece => (

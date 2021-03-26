@@ -36,7 +36,7 @@ class FilterByPlace extends React.Component {
             <option artist_nationality="Japanese" culture="Japan" country="Japan">Japanese</option>
             <option artist_nationality="Peruvian" culture="Peru" country="Peru">Peru</option>
             <option artist_nationality="Turkish" culture="Turkish" country="Turkey">Turkish</option>
-            <option artist_nationality="Greek, Attic" culture="Greek" country="Greece">Greek</option>
+            <option artist_nationality="Greek, Attic" culture="Greek, Attic" country="Greece">Greek</option>
             <option artist_nationality="Italian" culture="Italian" country="Italy">Italian</option>
             <option artist_nationality="Austrian" culture="Austrian" country="Austria">Austria</option>
             <option artist_nationality="Mexican" culture="Mexican" country="Mexico">Mexican</option>
