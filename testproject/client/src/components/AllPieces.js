@@ -1,5 +1,6 @@
 import React, { Fragment, useEffect, useState } from 'react';
 import Piece from './Piece';
+import Masonry from 'react-masonry-css';
 
 const AllPieces = (props) => {
 
@@ -90,9 +91,13 @@ const AllPieces = (props) => {
 
         return (
             <Fragment>
-                <div className="pieces-container">
+                <Masonry
+                breakpointCols={3}
+                className="my-masonry-grid"
+                columnClassName="my-masonry-grid_column">
                 {pieces.map(piece => (
                 <Piece 
+                className="mason-piece"
                 key={piece.objectid} 
                 objectid={piece.objectid}
                 primary_image_small={piece.primary_image_small} 
@@ -109,7 +114,8 @@ const AllPieces = (props) => {
                 department={piece.department}
                 />
                 ))}
-                </div>
+                </Masonry>
+                
            
             </Fragment>
         )
