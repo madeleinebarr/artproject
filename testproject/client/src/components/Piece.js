@@ -31,9 +31,14 @@ function Piece(props) {
                     
 
                 <div className="overlay">
-                    <p className="piece-title">{props.title}</p>
+                    {/* <p className="piece-title">{props.title}</p>
                     <p className="piece-artist">{props.artist_display_name}</p>
-                    <p className="piece-date">{props.object_end_date}</p>
+                    <p className="piece-date">{props.object_end_date}</p> */}
+                    <p>
+                        <span className="bold">{props.title}</span> <br></br>
+                        {(props.artist_display_name) ? <span>{props.artist_display_name}<br></br></span> : ''}
+                        {props.object_end_date}
+                    </p>
                     </div>
                     </Link>
         </div> 

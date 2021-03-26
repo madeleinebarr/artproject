@@ -46,7 +46,7 @@ class ShowPieces extends React.Component {
     render() {
     
         return (
-            <div className="pieces-container">
+            <div className="pieces-page-container">
                 <form className="filter-forms">
 
                         <FilterByTime 
@@ -67,7 +67,7 @@ class ShowPieces extends React.Component {
 
                 </form>
 
-
+            
                 <AllPieces 
                         startyear={this.state.startyear}
                         endyear={this.state.endyear}

@@ -13,6 +13,10 @@ code {
     monospace;
 }
 
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
 /*nav styling*/
 .navBar {
   background-color: #ffdf6f;
@@ -69,7 +73,7 @@ code {
 
 .piece {
   position: relative;
-  width: 50%;
+  /* width: 50%; */
   max-width: 600px;
 }
 
@@ -82,14 +86,17 @@ code {
 .overlay {
   position: absolute;
   bottom: 0;
-  background: rgb(0, 0, 0);
-  background: rgba(0, 0, 0, 0.5); /* Black see-through */
+  /* background: rgb(0, 0, 0);
+  background: rgba(0, 0, 0, 0.5);  */
+  background: rgb(255, 255, 255);
+  background: rgba(255, 255, 255, 0.7);
   color: #f1f1f1;
   width: 100%;
   transition: 0.5s ease;
   opacity: 0;
-  color: white;
-  font-size: 20px;
+  /* color: white; */
+  color: black;
+  font-size: 15px;
   padding: 20px;
   text-align: center;
 }
@@ -97,3 +104,29 @@ code {
 .piece:hover .overlay {
   opacity: 1;
 }
+
+.bold {
+  font-weight: 600;
+}
+
+/*masonry layout*/
+
+/* .pieces-container {
+  column-count: 4;
+  column-gap: 1em;
+} */
+
+/* .pieces-container {
+  display: flex;
+} */
+
+/* .pieces-container {
+  display: flex;
+  flex-flow: column wrap;
+  align-content: space-between;
+} */
+
+/* .pieces-container {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+} */

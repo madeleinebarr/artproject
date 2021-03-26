@@ -90,6 +90,7 @@ const AllPieces = (props) => {
 
         return (
             <Fragment>
+                <div className="pieces-container">
                 {pieces.map(piece => (
                 <Piece 
                 key={piece.objectid} 
@@ -108,6 +109,7 @@ const AllPieces = (props) => {
                 department={piece.department}
                 />
                 ))}
+                </div>
            
             </Fragment>
         )
