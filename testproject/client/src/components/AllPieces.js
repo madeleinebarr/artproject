@@ -97,7 +97,6 @@ const AllPieces = (props) => {
                 columnClassName="my-masonry-grid_column">
                 {pieces.map(piece => (
                 <Piece 
-                className="mason-piece"
                 key={piece.objectid} 
                 objectid={piece.objectid}
                 primary_image_small={piece.primary_image_small} 

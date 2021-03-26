@@ -60,13 +60,6 @@ body {
   outline: none;
 }
 
-/*piece picture styling*/
-
-/* .piece {
-  position: relative;
-  width: 50%;
-} */
-
 * {
   box-sizing: border-box;
 }
@@ -75,6 +68,7 @@ body {
   position: relative;
   /* width: 50%; */
   max-width: 400px;
+  margin-bottom: 30px;
 }
 
 .piece-image {
@@ -86,8 +80,6 @@ body {
 .overlay {
   position: absolute;
   bottom: 0;
-  /* background: rgb(0, 0, 0);
-  background: rgba(0, 0, 0, 0.5);  */
   background: rgb(255, 255, 255);
   background: rgba(255, 255, 255, 0.7);
   color: #f1f1f1;
@@ -111,26 +103,6 @@ body {
 
 /*masonry layout*/
 
-/* .pieces-container {
-  column-count: 4;
-  column-gap: 1em;
-} */
-
-/* .pieces-container {
-  display: flex;
-} */
-
-/* .pieces-container {
-  display: flex;
-  flex-flow: column wrap;
-  align-content: space-between;
-} */
-
-/* .pieces-container {
-  display: grid;
-  grid-template-columns: 1fr 1fr;
-} */
-
 .my-masonry-grid {
   display: -webkit-box; /* Not needed if autoprefixing */
   display: -ms-flexbox; /* Not needed if autoprefixing */
@@ -143,9 +115,102 @@ body {
   background-clip: padding-box;
 }
 
-/* Style your items */
-.my-masonry-grid_column > .mason-piece {
-  /* change div to reference your elements you put in <Masonry> */
-  background: grey;
-  margin-bottom: 30px;
+.piece-page-content {
+  margin-top: 30px;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+}
+
+/* .piece-page-main-image-section {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+} */
+
+.piece-page-main-image {
+  /* max-height: 700px; */
+  max-width: 700px;
+  /* padding-right: 30px; */
+
+  /* width: 600px; */
+  /* width: 700px; */
+  /* height: 70vh; */
+  /* display: block;
+  margin: 0 auto; */
+  /* margin-top: 5%; */
+}
+
+/* .piece-page-main-image-section {
+  height: 90vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+} */
+
+/* .piece-page-main-image {
+  width: 600px;
+
+  display: block;
+  margin: 0 auto;
+  margin-top: 5%;
+  
+}
+
+.piece-page-basic-info {
+  display: flex;
+  align-items: center;
+}
+
+.basic-info-text {
+  margin-bottom: 300px;
+} */
+
+/* .piece-page-basic-info {
+  display: flex;
+  justify-content: center;
+} */
+
+.piece-page-title {
+  /* font-size: 2vw; */
+  font-size: 40px;
+  font-weight: 700;
+}
+
+.piece-page-date {
+  /* font-size: 1vw; */
+  font-size: 30px;
+  color: grey;
+  margin-top: -30px;
+}
+
+.piece-page-artist {
+  font-size: 20px;
+  margin-top: -20px;
+}
+
+.piece-page-geography,
+.piece-page-medium,
+.piece-page-department {
+  font-size: 16px;
+  /* line-height: 1; */
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
+
+.piece-page-text {
+  margin-left: 200px;
+  width: 500px;
+}
+
+/* .see-full-piece {
+  display: flex;
+  justify-content: center;
+} */
+
+/* .see-full-piece {
+  text-align: center;
+} */
+
+.piece-page-images-section {
+  margin-bottom: 50px;
 }

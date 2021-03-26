@@ -1,21 +1,6 @@
 import React from 'react';
 import NavBar from './NavBar';
 
-// class PiecePage extends React.Component {
-//     getObjectId = () => {
-//         console.log('getting object id');
-//     }
-
-    
-//     render() {
-//         return (
-//             <div className="piecepage">
-//                 <NavBar />
-//                 <h1>We went to the piece page</h1>
-//             </div>
-//         );
-//     }
-// }
 
 function PiecePage(props) {
         let LSpropsObject;
@@ -36,67 +21,65 @@ function PiecePage(props) {
 
         console.log(LSpropsObject.object_end_date);
 
-        // getAdditionalImages = () => {
-        //     const additionalImageArray = LSpropsObject.additional_images;
-        //     const 
-        // }
         let additionalImageArray = LSpropsObject.additional_images;
 
         
     return (
         <div className="piecepage">
                 <NavBar />
-                    <img className="piece-page-image" style={{width: '500px'}} src={LSpropsObject.primary_image} alt={LSpropsObject.title}></img>
+
+                <div className="piece-page-content">
+
+
+                <div className="piece-page-basic-info">
+                        
+                        <div className="piece-page-text">
+
+                            <p className="piece-page-title">{LSpropsObject.title}</p>
+                            <p className="piece-page-date">{LSpropsObject.object_end_date}</p>
+
+                            {LSpropsObject.artist_display_name ?
+                            <p className="piece-page-artist">{LSpropsObject.artist_display_name}</p> :
+                            ''
+                            }
+
+                            <p className="piece-page-geography">
+                                {LSpropsObject.artist_nationality || LSpropsObject.culture || LSpropsObject.country}
+                                {LSpropsObject.city && LSpropsObject.city !== LSpropsObject.culture ?
+                                <span>, {LSpropsObject.city}</span> :
+                                ''}
+                            </p>
+
+                        
+
+
+
+                            <p className="piece-page-medium">{LSpropsObject.medium}</p>
+                            <p className="piece-page-department">{LSpropsObject.department} Department</p>
+                            </div>
+
+                
+                </div>   
+
+                <div className="piece-page-images-section">
+                    <div className="piece-page-main-image-section">
+                        <img className="piece-page-main-image" src={LSpropsObject.primary_image} alt={LSpropsObject.title}></img>
+                        <br></br>
+                        <div className="see-full-piece"><a href={LSpropsObject.primary_image} target="_blank" rel='noopener noreferrer'>See full piece</a></div>
+                    </div>
+                    
 
                     {/* {LSpropsObject.additional_images.length ?
-                    <p>We have images</p>
-                     :
-                    <p>NO ADDITIONAL IMAGES</p>
-                    } */}
-
-                    {LSpropsObject.additional_images.length ?
-                    additionalImageArray.map((image) => <img className="piece-page-additional-image" style={{width: '100px'}} src={image} alt={LSpropsObject.title}></img>)
-                     :
-                    ''
-                    }
-                    {/* {additionalImageArray.map((image) => <img className="piece-page-additional-image" style={{width: '100px'}} src={image} alt={LSpropsObject.title}></img>)} */}
-
-                    <p className="piece-page-title">Title: {LSpropsObject.title}</p>
-
-                    {LSpropsObject.artist_display_name ?
-                    <p className="piece-page-artist">Artist: {LSpropsObject.artist_display_name}</p> :
-                    ''
-                    }
-
-                    {LSpropsObject.artist_nationality ?
-                        <p className="piece-page-artist-nationality">Artist Nationality: {LSpropsObject.artist_nationality}</p> :
+                    <div className="piece-page-additional-image-section">
+                        {additionalImageArray.map((image) => <img className="piece-page-additional-image" style={{width: '100px'}} src={image} alt={LSpropsObject.title}></img>)}
+                    </div>
+                        :
                         ''
-                        }
+                        } */}
+                </div>
+        
 
-                    {(!LSpropsObject.artist_nationality && LSpropsObject.culture) ? 
-                        <p className="piece-page-culture">Culture: {LSpropsObject.culture}</p> :
-                        ''
-                    }
-
-                    {(!LSpropsObject.artist_nationality && !LSpropsObject.culture && LSpropsObject.country) ?
-                        <p className="piece-page-country">Country: {LSpropsObject.country}</p> :
-                        ''
-
-                    }
-
-                    {LSpropsObject.city ? 
-                    <p>City: {LSpropsObject.city}</p> :
-                    ''
-                    }
-
-
-                    <p className="piece-page-date">Date created: {LSpropsObject.object_end_date}</p>
-
-
-                    <p className="piece-page-medium">Medium: {LSpropsObject.medium}</p>
-                    <p className="piece-page-department">Department: {LSpropsObject.department}</p>
-    
-                    
+                </div>         
 
         </div>
     )
